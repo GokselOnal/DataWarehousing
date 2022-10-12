@@ -1,0 +1,201 @@
+CUSTOMER_ID,GENRE,AGE,ANNUAL_INCOME,SPENDING_SCORE,CITY_NAME,CITY_LATITUDE,CITY_LONGITUDE,COUNTRY_CODE,CITY_POPULATION,IS_CAPITAL,PRODUCT_NAME,PRODUCT_BRAND,PRODUCT_RATING,PRODUCT_PRICE,COUNTRY_NAME,DATE
+1,Male,19,15000,39,New York,40.6943,-73.9249,US,18713220,0,64 GB Metal Usb Flash Bellek,Powerway,1479,74.9,United States,2021-08-29 13:18:36
+2,Male,21,15000,81,Los Angeles,34.1139,-118.407,US,12750807,0,MG3710/15 Multigroom 3000 Series 6 in 1 Erkek Bakım Kiti,Philips,10447,503.9,United States,2021-04-16 20:57:14
+3,Female,20,16000,6,Chicago,41.8373,-87.6862,US,8604203,0,Airfryer 4.5l Akıllı Yağsız Hava Fritözü,Wiami,92,1849.0,United States,2021-09-30 16:23:07
+4,Female,23,16000,77,Miami,25.7839,-80.2102,US,6445545,0,32 GB Metal Usb Flash Bellek,Powerway,890,54.9,United States,2021-02-06 07:47:50
+5,Female,31,17000,40,Dallas,32.7936,-96.7662,US,5743938,0,Yağ Ölçer Fonksiyonlu Baskül Akıllı Bluetooth Tartı,comedones,2784,153.89,United States,2021-06-12 18:21:07
+6,Female,22,17000,76,Philadelphia,40.0077,-75.1339,US,5649300,0,Profesyonel Seramik Wag Şu Dalgası Saç Maşası 220 Derece 25 Mm,CVS,295,291.0,United States,2021-03-18 02:19:08
+7,Female,35,18000,6,Houston,29.7863,-95.3889,US,5464251,0,Daily Collection Siyah Filtre Kahve Makinesi,Philips,6680,742.5,United States,2021-12-31 08:28:08
+8,Female,23,18000,94,Atlanta,33.7627,-84.4224,US,5449398,0,Lia Katlanabilir Seyahat Tipi Saç Kurutma Makinesi,Raks,6060,178.0,United States,2021-09-27 20:42:59
+9,Male,64,19000,3,Washington,38.9047,-77.0163,US,5379184,1,64 Gb Micro Sd Hafıza Kartı Adaptör Dahil,Powerway,1094,82.9,United States,2021-09-09 05:53:25
+10,Female,30,19000,72,Boston,42.3188,-71.0846,US,4688346,0,Xiaomi mi Band 3 Ve Mi Band 4 Uyumlu Silikon Kordon Siyah (SADECE KORDON),UNIQUE ME,211,12.95,United States,2021-03-22 16:27:00
+11,Male,67,19000,14,Phoenix,33.5722,-112.089,US,4219697,0,Iphone 11 Uyumlu Mat Şeffaf Hux Kilif,Go Aksesuar,409,41.32,United States,2021-03-31 20:22:15
+12,Female,35,19000,99,Seattle,47.6211,-122.324,US,3789215,0,Ar1004 Soprano Max Multi 1000 w Blender Seti,Arzum,3934,799.9,United States,2021-03-02 07:36:50
+13,Female,58,20000,15,San Francisco,37.7562,-122.443,US,3592294,0,"Tab M8 TB-8505F 32GB 8"" ZA5G0100TR IPS Gri Tablet (Lenovo Türkiye Garantili)",LENOVO,640,1299.0,United States,2021-08-24 23:54:01
+14,Female,24,20000,77,Detroit,42.3834,-83.1024,US,3506126,0,Iphone 11 Logolu 12 Görünümlü Grafity Lansman Kılıf,Go Aksesuar,2134,55.98,United States,2021-02-07 20:36:34
+15,Male,37,20000,13,San Diego,32.8312,-117.122,US,3220118,0,Iphone 11 Logolu Lansman Kılıf Kamera Korumalı Fıstık Yeşil,TrendCell,462,29.99,United States,2021-04-18 20:08:18
+16,Male,22,20000,79,Minneapolis,44.9635,-93.2678,US,2977172,0,"Serisi 15.6"" Inç Siyah Evrak Bilgisayar Notebook Laptop Çantası",Moda West,2334,114.31,United States,2021-10-29 18:17:23
+17,Female,35,21000,35,Tampa,27.9942,-82.4451,US,2908063,0,Smw-777 Kablosuz Siyah Optik Mouse,Everest,6179,77.0,United States,2021-08-31 04:17:01
+18,Male,20,21000,66,Denver,39.7621,-104.876,US,2876625,0,Fc9750/07 Powerpro Max Torbasız Elektrikli Süpürge,Philips,5005,3761.01,United States,2021-01-13 18:00:35
+19,Male,52,23000,29,Brooklyn,40.6501,-73.9496,US,2559903,0,Iphone Şarj Aleti (İPHONE 13 - 12 - 11 - X-8-7-6) 2.1a Orjinal Hızlı Şarj Aleti,Ttec,1246,119.48,United States,2021-06-10 02:33:52
+20,Female,35,23000,98,Queens,40.7498,-73.7976,US,2230722,0,Windows 10 Pro Orjinal Dijital Lisans Anahtarı,Microsoft Studios,17,7.0,United States,2021-07-16 02:05:36
+21,Male,35,24000,35,Riverside,33.9381,-117.395,US,2107852,0,"Gx40q17225 Case 15.6"" Toploader B210 Notebook Sırt Çantası Siyah",LENOVO,441,250.99,United States,2021-02-09 12:29:41
+22,Male,25,24000,73,Baltimore,39.3051,-76.6144,US,2106068,0,Iphone 11/12 Uyumlu Swarowski Taşlı Silver Kamera Lens Koruyucu,Powerfox,152,24.99,United States,2021-07-23 15:15:17
+23,Female,46,25000,5,Las Vegas,36.2333,-115.265,US,2104198,0,Kroko Siyah Macbook Air Pro 13-14-15.6 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,1899,140.71,United States,2021-02-01 09:28:54
+24,Male,31,25000,73,Portland,45.5372,-122.65,US,2074775,0,Iphone Tüm Serilerle Uyumlu Hızlı Şarj Aleti Kablo Adaptör Set Iphone 11 / 12 / 13 / Pro / Pro Max,Techomi,20,85.03,United States,2021-03-02 05:38:50
+25,Female,54,28000,14,San Antonio,29.4658,-98.5253,US,2049293,0,20000 Mah Powerbank Taşınabilir Şarj Cihazı Mi Powerbank,Xiomar,38,174.22,United States,2021-05-07 17:37:21
+26,Male,29,28000,82,St. Louis,38.6358,-90.2451,US,2024074,0,Siyah Macbook Air Pro 13-14-15.6 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,1400,140.71,United States,2021-03-29 18:13:07
+27,Female,45,28000,32,Sacramento,38.5667,-121.468,US,1898019,0,"Galaxy Tab A8 10,5 Wifi 3/32 Gb Sm-x200 Silver",Samsung,303,2999.49,United States,2021-11-24 06:52:14
+28,Male,35,28000,61,Orlando,28.4772,-81.3369,US,1822394,0,Nokıa 112 Tuşlu Kamerasız Cep Telefonu,mydeppo,78,339.0,United States,2021-05-12 23:00:40
+29,Female,40,29000,31,San Jose,37.3019,-121.849,US,1798103,0,Iphone 11 (6.1') Uyumlu Altı Kapalı Logolu Lansman Kılıf Kapak Buz Mavi,TrendCell,235,29.99,United States,2021-12-07 20:40:37
+30,Female,23,29000,87,Cleveland,41.4767,-81.6804,US,1710093,0,"Siyah Su Geçirmez Fermuar Detaylı Unisex 15-15,6 Inç Uyumlu Macbook Kılıf Notebook Laptop Çantası",D'VERS,356,92.31,United States,2021-06-28 21:50:36
+31,Male,60,30000,4,Istanbul,41.01,28.9603,TR,15154000,0,Goldiacase Taşlı Telefon Bilek Askısı,moz dekorasyon,922,23.45,Turkey,2021-07-19 07:30:54
+32,Female,21,30000,73,Ankara,39.93,32.85,TR,5503985,1,Apple Ipad 8. Ve 9. Nesil 10.2 Uyumlu Kılıf Katlanır Kalemlikli Standlı Uyku Modlu Akıllı Kılıf,Fibaks,104,189.9,Turkey,2021-10-29 00:12:17
+33,Male,53,33000,4,Izmir,38.4127,27.1384,TR,4320519,0,Iphone 11 Uyumlu Logolu Içi Kadife Lansman Kılıf Kapak Beyaz,TrendCell,95,29.99,Turkey,2021-10-18 07:45:42
+34,Male,18,33000,92,Bursa,40.1833,29.0667,TR,2901396,0,Iphone 11 Uyumlu Papatya Desenli Kılıf,Go Aksesuar,619,60.84,Turkey,2021-10-10 21:02:20
+35,Female,49,33000,14,Antalya,36.9081,30.6956,TR,2426356,0,DeathAdder Essential Siyah Optik Gaming Mouse RZ01-02540100-R3M1,RAZER,1836,279.0,Turkey,2021-04-23 05:55:08
+36,Female,21,33000,81,Konya,37.8714,32.4847,TR,2232374,0,Iphone 11 Logolu Lansman Lila Kılıf Altı Kapalı Iç Kısmı Kadife,TrendCell,391,29.99,Turkey,2021-05-29 12:31:24
+37,Female,42,34000,17,Adana,37.0,35.325,TR,2220125,0,Ataelektronik Sihirli Akıllı Mouse Kumanda Yerine Tüm Model Smart 3d Tv Televizyon Tuşlu Kumanda 930,LG,980,29.89,Turkey,2021-06-22 10:50:53
+38,Female,30,34000,73,Gaziantep,37.0667,37.3833,TR,2028563,0,"Multifry Beyaz Air Fryer Yağsız Fritöz 3,5 L",Karaca,183,1999.0,Turkey,2021-06-21 19:57:58
+39,Female,36,37000,26,Sanliurfa,37.1583,38.7917,TR,1985753,0,Airfryer 3.5l Akıllı Yağsız Hava Fritözü,Wiami,37,1649.0,Turkey,2021-11-20 23:16:10
+40,Female,20,37000,75,Mersin,36.8,34.6167,TR,1814468,0,Iphone 11 Uyumlu Logolu Altı Kapalı Içi Kadife Lansman,Go Aksesuar,20,29.99,Turkey,2021-04-30 15:24:56
+41,Female,65,38000,35,Diyarbakir,37.9108,40.2367,TR,1732396,0,Powerbank Ultra Compact 10000 Mah Dlp Seri Dlp1810nb/62 Taşınabilir Şarj Cihazı Çift Usb Çıkışı,Philips,1757,239.0,Turkey,2021-03-20 06:06:10
+42,Male,24,38000,92,Kayseri,38.7333,35.4833,TR,1389680,0,Ar6030 Steampro Plus Buharlı Ütü - Mavi,Arzum,65,434.9,Turkey,2021-06-17 04:56:34
+43,Male,48,39000,36,Samsun,41.2867,36.33,TR,1335716,0,Xiaomi Mi Band 5 Ve 6 Uyumlu Kordon Seti 5li,APEXEL,466,59.4,Turkey,2021-12-28 04:51:35
+44,Female,31,39000,61,Tekirdag,40.9833,27.5167,TR,1029927,0,Xiaomi Mi Band 3/4 Uyumlu Desenli Kordon Siyah,APEXEL,1321,20.85,Turkey,2021-10-15 14:09:42
+45,Female,49,39000,28,Denizli,37.7731,29.0878,TR,963464,0,Iphone 11 6d Tam Kaplayan Ceramic Nano Ekran Koruyucu Film,Go Aksesuar,703,23.81,Turkey,2021-05-28 07:45:59
+46,Female,24,39000,65,Eskisehir,39.7767,30.5206,TR,871187,0,Redmi Watch 2 Lite Bej Akıllı Saat 2022 Yeni Model (Xiaomi Türkiye Garantili),Xiaomi,78,1028.9,Turkey,2021-08-02 17:18:44
+47,Female,50,40000,55,Trabzon,41.005,39.7225,TR,807903,0,Kalp Desenli Iphone 11 Kılıf,moodcase,332,36.1,Turkey,2021-02-08 08:03:18
+48,Female,27,40000,47,Erzurum,39.9097,41.2756,TR,767848,0,Iphone 13 Arka Kırılmaz Cam Ekran Koruyucu,Powerfox,106,16.99,Turkey,2021-04-08 16:04:32
+49,Female,29,40000,42,Malatya,38.3554,38.3337,TR,461574,0,Phililps Essential Kablolu Epilatör,Philips,3401,386.06,Turkey,2021-07-19 18:57:16
+50,Female,31,40000,42,Batman,37.8833,41.1333,TR,447106,0,Iphone 11 Kılıf Magsafe Köşeleri Renkli Lüx Şeffaf Kamera Korumalı Silikon,Ceponya,17,108.0,Turkey,2021-08-11 14:53:11
+51,Female,49,42000,52,Kahramanmaras,37.5875,36.9453,TR,443575,0,"17"" Siyah Notebook Laptop Bilgisayar Sırt Çantası-s",RELIANCE,684,139.9,Turkey,2021-05-03 15:51:24
+52,Male,33,42000,60,Elazig,38.6667,39.2167,TR,421726,0,Watch 7 Max Dt 7 Max Smartwatch 2022 Yeni Nesil Akıllı Saat Konum Ve Nfc Özellikli Siyah,ShinyWATCH,309,599.9,Turkey,2021-02-05 01:37:55
+53,Female,31,43000,54,Hatay,36.2,36.15,TR,377793,0,Iphone 11 Casetify Manifest Your Vision Desenli Anti Shock Premium Silikonlu Siyah Kenar Detaylı Tel,mooodcase,435,59.17,Turkey,2021-02-11 20:28:09
+54,Male,59,43000,60,Sivas,39.75,37.0167,TR,377561,0,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,265,59.9,Turkey,2021-06-12 01:19:16
+55,Female,50,43000,45,Kocaeli,40.7656,29.9406,TR,363416,0,32kh 32 Inç 55-82 Cm Iki Kol Kelebek Hareketli Askı Aparatı,UFİX,281,95.78,Turkey,2021-05-15 11:31:15
+56,Male,47,43000,41,Van,38.5019,43.4167,TR,353419,0,Pudra Macbook Air Pro 13 13.3-14 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,906,140.71,Turkey,2021-10-02 01:45:07
+57,Female,51,44000,50,Tarsus,36.9167,34.9,TR,339676,0,"Unisex West Serisi 15.6"" Inç Gri Evrak Bilgisayar Notebook Laptop Çantası",Moda West,1534,114.31,Turkey,2021-06-27 04:52:23
+58,Male,69,44000,46,Balikesir,39.6511,27.8842,TR,331788,0,Iphone 11 Kılıf Magsafe Köşeleri Renkli Lüx Şeffaf Kamera Korumalı,Ceponya,73,118.2,Turkey,2021-11-27 10:00:33
+59,Female,27,46000,51,Alanya,36.5436,31.9997,TR,312319,0,Samsung Orjinal Type-c S8 - S8+ - A3 A5 A7 2017hızlı Şarj Aleti,Universal,85,87.5,Turkey,2021-04-22 18:32:22
+60,Male,53,46000,46,Adiyaman,37.7644,38.2763,TR,304615,0,Iphone 11 Yuvarlak Kamera Tasarımlı Yumuşak Silikon Kamera Korumalı Kılıf,Go Aksesuar,238,80.3,Turkey,2021-03-01 21:06:33
+61,Male,70,46000,56,Berlin,52.5167,13.3833,DE,3644826,1,"Siyah Su Geçirmez Kumaş Su Geçirmez Fermuar Detaylı 15-15,6inch Uyumlu Unisex Laptop Evrak Çantası",D'VERS,1458,127.51,Deutschland,2021-09-30 07:34:45
+62,Male,19,46000,55,Hamburg,53.55,10.0,DE,1841179,0,Su Geçirmez Fermuar Detaylı 15.6 Inch Uyumlu Siyah Sırt Çantası,D'VERS,331,158.31,Deutschland,2021-10-16 19:20:53
+63,Female,67,47000,52,Munich,48.1372,11.5755,DE,1471508,0,"Ipad 9. Nesil 10.2"" Kılıf Uyumlu Kalem Bölmeli Folding Smart Standlı Yumuşak Silikon Tam Koruma",Fibaks,67,189.9,Deutschland,2021-05-01 10:30:28
+64,Female,54,47000,59,Cologne,50.9422,6.9578,DE,1085664,0,Airtag Akıllı Takip Cihazı (Apple Türkiye Garantili),Apple,289,598.0,Deutschland,2021-10-22 18:56:19
+65,Male,63,48000,51,Frankfurt,50.1136,8.6797,DE,753056,0,"15,6""-17,6"" Siyah Notebook Laptop Bilgisayar Sırt Çantası",RELIANCE,203,159.9,Deutschland,2021-05-27 07:20:09
+66,Male,18,48000,59,Bremen,53.1153,8.7975,DE,724909,0,Iphone 11 Logolu Kamera Korumalı Okyanus Lacivert Renk Lansman Içi Kadife Aa Kalite Uyumlu,Go Aksesuar,519,29.99,Deutschland,2021-02-05 08:53:41
+67,Female,43,48000,50,Stuttgart,48.7761,9.1775,DE,634830,0,Xiaomi Mi Band 5 | Mi Band 6 Uyumlu Silikon Yüksek Kalite Kordon Kayış,CONOCER,250,18.99,Deutschland,2021-02-23 03:15:52
+68,Female,68,48000,48,Dusseldorf,51.2311,6.7724,DE,619294,0,"Ipad 8. Nesil 2020 10.2"" Uyumlu Ekran Koruyucu Nano Esnek Flexible 9h Micro Temperli Kırılmaz Cam",Fibaks,65,49.99,Deutschland,2021-04-20 19:28:10
+69,Male,19,48000,59,Dortmund,51.5139,7.4653,DE,587010,0,"A359 Demkolik Sade 1600 W Çelik Çay Makinesi 1,8 0,9 Lt",KORKMAZ,1032,741.98,Deutschland,2021-01-26 08:22:35
+70,Female,32,48000,47,Essen,51.4508,7.0131,DE,583109,0,S5 Max 2li Uyumlu Uygun Mop Fiber Yedek Bezi,Roborock,728,127.71,Deutschland,2021-02-22 06:17:18
+71,Male,70,49000,55,Dresden,51.0493,13.7384,DE,555805,0,VIA.S30 4GB 64GB 10’’ FHD Tablet,Casper,286,2773.0,Deutschland,2021-11-29 08:11:21
+72,Female,47,49000,42,Leipzig,51.35,12.3833,DE,542529,0,Iphone 11 Uyumlu 12 Görünümlü Logolu Lila Renk Lansman Içi Kadife Aa Kalite,Go Aksesuar,937,44.9,Deutschland,2021-05-07 11:51:36
+73,Female,60,50000,49,Hannover,52.3744,9.7386,DE,538068,0,Samsung Galaxy Tab S6 Lite P610 Uyumlu Kalem Bölmeli Pu Deri Arkası Yumuşak Koruyucu Silikon Kılıf,Fibaks,205,189.9,Deutschland,2021-04-30 10:53:29
+74,Female,60,50000,56,Nuremberg,49.4528,11.0778,DE,518365,0,Iphone 11 Arka Esnek Nano Koruyucu,Powerfox,248,16.99,Deutschland,2021-09-04 11:41:55
+75,Male,59,54000,47,Duisburg,51.4322,6.7611,DE,498590,0,Rm-420 Black Eagle 27 Fhd 165hz Ips Panel Vga + Hdmı*2 + Dp Flat Pc Oyuncu Monitörü,Rampage,32,3297.99,Deutschland,2021-07-17 00:26:47
+76,Male,26,54000,54,Bochum,51.4833,7.2167,DE,364628,0,Iphone 11 Uyumlu Kamera Lens Koruyucu,Go Aksesuar,448,23.79,Deutschland,2021-02-20 07:06:57
+77,Female,45,54000,53,Wuppertal,51.2667,7.1833,DE,354382,0,Laptop Notebook Kamera Kapatıcı Ve Telefon Kamera Kapatıcı X 3'lü Set,Webcam Cover,1560,11.73,Deutschland,2021-03-29 06:16:22
+78,Male,40,54000,48,Bielefeld,52.0167,8.5333,DE,333786,0,"Tab M10 Plus Tb-x606f 10.3"" 128gb Wifi + Bluetooth Tablet Za6h0025tr",LENOVO,305,3519.1,Deutschland,2021-02-13 04:24:38
+79,Female,23,54000,52,Bonn,50.7339,7.0997,DE,327258,0,S5 Max Uyumlu 5 Kollu Yan Fırça 2'li,Roborock,300,79.0,Deutschland,2021-10-11 05:42:41
+80,Female,49,54000,42,Munster,51.9625,7.6256,DE,314319,0,Beko Altus Grundig Smart Lcd Led Tv Televizyon Kumandası Netflix Tuşlu,Arçelik,748,29.99,Deutschland,2021-08-23 08:46:06
+81,Male,57,54000,51,Karlsruhe,49.0167,8.4,DE,313092,0,"TUF Gaming VG27VQ 27"" 165 Hz 1ms (HDMI+Display+DVI-D) FreeSync Full HD Curved Monitör",ASUS,145,4582.49,Deutschland,2021-03-01 09:48:14
+82,Male,38,54000,55,Mannheim,49.4878,8.4661,DE,309370,0,Hd9951/00 Airfryer Xxl Izgara Ustası Seti,Philips,24,538.0,Deutschland,2021-10-28 23:49:04
+83,Male,67,54000,41,Augsburg,48.3717,10.8983,DE,295135,0,Iphone 11 Mat Seramik Nano Cam Ekran Koruyucu,Go Aksesuar,487,25.54,Deutschland,2021-12-12 16:32:44
+84,Female,46,54000,44,Wiesbaden,50.0825,8.24,DE,278342,0,Xiaomi Mi Band 3 Ve 4 Uyumlu 5'li Kordon Seti,APEXEL,848,58.5,Deutschland,2021-04-23 12:14:13
+85,Female,21,54000,57,Gelsenkirchen,51.5167,7.1,DE,260654,0,Bilek Destekli Siyah Renkli Baskılı Oval Mouse Pad,MAĞAZA DEPOM,174,25.3,Deutschland,2021-11-16 12:10:12
+86,Male,48,54000,46,Monchengladbach,51.2,6.4333,DE,261454,0,Recharger Duo+ Iphone Lightning Dahili Kablolu Taşınabilir Şarj Alet i10.000mah Siyah Powerbank,Ttec,832,216.49,Deutschland,2021-04-25 15:20:24
+87,Female,55,57000,58,Kiel,54.3233,10.1394,DE,247548,0,"Profesyonel Klasik 25mm Wag Maşa Seramik Kaplama, Geniş Ve Doğal Şekillendirme Yüzeyi",Shibowavy,966,299.0,Deutschland,2021-09-15 23:54:59
+88,Female,22,57000,55,Braunschweig,52.2692,10.5211,DE,248292,0,Iphone 11 Kamera Korumalı Business Darbe Emici Dayanıklı Siyah Kılıf,Bel Caso,774,29.9,Deutschland,2021-04-16 07:23:30
+89,Female,34,58000,60,Aachen,50.7762,6.0838,DE,247380,0,Iphone 11 Logolu Leylak Lansman Içi Kadife Aa Kalite,Go Aksesuar,145,29.99,Deutschland,2021-10-05 23:06:29
+90,Female,50,58000,46,Chemnitz,50.8333,12.9167,DE,245403,0,Game Master 120 Gb Ssd Sata3 550-500 Okuma-yazma,Qcell,178,221.73,Deutschland,2021-08-03 01:14:05
+91,Female,68,59000,55,Barcelona,41.3825,2.1769,ES,4588000,0,Iphone 13 Pro Max Uyumlu Kılıf Magsafe Köşeleri Renkli Şeffaf Kamera Korumalı Silikon Kapak,Ceponya,19,118.0,Spain,2021-05-05 02:07:32
+92,Male,18,59000,41,Madrid,40.4189,-3.6919,ES,3266126,1,Apple Ipad 10.2 (8. VE 9. NESİL) Tri Folding Tablet Kılıfı A2270 A2428 A2429 A2430 Siyah,Nezih Case,416,184.9,Spain,2021-09-15 19:04:37
+93,Male,48,60000,49,Sevilla,37.3828,-5.9731,ES,1212045,0,Iphone 6 / 6s Anti Şok Darbe Emici Silikon Şeffaf Kılıf Kapak,Teknoçeri,1126,29.9,Spain,2021-12-09 09:08:06
+94,Female,40,60000,40,Valencia,39.4667,-0.375,ES,794288,0,Iphone 11 Uyumlu Siyah Kamera Lens Korumalı Dünya Harita Desenli Lüx Telefon Kılıfı,mooodcase,717,44.9,Spain,2021-07-05 09:51:42
+95,Female,32,60000,42,Zaragoza,41.6483,-0.883,ES,649404,0,Apple Iphone 11 (6.1) Darbe Önleyici Kamera Korumalı Şeffaf Silikon Kılıf Aa Kalite,Go Aksesuar,749,23.8,Spain,2021-02-15 01:38:52
+96,Male,24,60000,52,Malaga,36.7167,-4.4167,ES,574654,0,Iphone 11 /iphone Xr Kavisli Gizlilik Filtreli Hayalet Cam Ekran Koruyucu,Go Aksesuar,349,34.25,Spain,2021-07-17 06:39:35
+97,Female,47,60000,47,Palma,39.5667,2.6497,ES,416065,0,Iphone 7 Plus / 8 Plus Şok Darbe Emici Şeffaf Silikon Kılıf,Teknoçeri,2281,29.9,Spain,2021-05-25 01:00:20
+98,Female,27,60000,50,Murcia,37.9866,-1.1415,ES,406807,0,Apple Watch 7 8 45mm Kılıf Kasa Ve Ekran Koruyucu 360 Tam Koruma Kapak,Fibaks,180,59.99,Spain,2021-05-11 01:52:14
+99,Male,48,61000,42,Las Palmas,28.1272,-15.4314,ES,379925,0,Iphone 11 Manzara Desenli Kamera Korumalı Kılıf,Go Aksesuar,161,70.61,Spain,2021-09-26 03:06:22
+100,Male,20,61000,49,A Coruna,43.3713,-8.4188,ES,370610,0,Mini Ev Dikiş Makinesi Pedallı Sewıng Machine,BST BRANDSHOPPİNGTR,736,299.0,Spain,2021-01-09 15:56:44
+101,Female,23,62000,41,Donostia,43.3204,-1.98,ES,357468,0,Fc 9919 Marathon Ultimate Triactive Plus Emici Başlık,Philips,364,124.0,Spain,2021-09-12 10:37:54
+102,Female,49,62000,48,Bilbao,43.2622,-2.9533,ES,346843,0,Hbs 1010 700 Watt 3’ü 1 Arada El Blender Seti,Grundig,1252,415.0,Spain,2021-12-01 01:00:20
+103,Male,67,62000,59,Alicante,38.3453,-0.4831,ES,334887,0,Profesyonel T-bıçak Saç Sakal Ense Ve Çizim Tıraş Makinesi Th-8005,SMARTBLUE,83,238.9,Spain,2021-01-30 01:12:09
+104,Male,26,62000,55,Cordoba,37.8833,-4.7667,ES,325701,0,S5 - S6 Max S50 - S55 Uyumlu Hepa Filtre,Roborock,260,79.0,Spain,2021-11-10 15:32:04
+105,Male,49,62000,56,Valladolid,41.652,-4.7286,ES,298412,0,Xiaomi Mi Band 3 Ve 4 Uyumlu Silikon Yüksek Kalite Kordon Kayış,CONOCER,533,18.99,Spain,2021-09-16 05:38:36
+106,Female,21,62000,42,Vigo,42.2358,-8.7267,ES,295364,0,Apple Watch Uyumlu 38 40 mm Örgülü Esnek Kordon,TT Option,398,69.0,Spain,2021-10-19 13:25:25
+107,Female,66,63000,50,Gijon,43.5293,-5.6773,ES,271780,0,Ko-40 Tahdf 60 Cm Siyah Cam Ankastre Ocak,KUMTEL,203,1199.0,Spain,2021-11-16 04:13:03
+108,Male,54,63000,46,Vitoria-Gasteiz,42.8467,-2.6731,ES,251774,0,Iphone 13 Pro Max Arka Kırılmaz Cam Ekran Koruyucu,Powerfox,114,15.99,Spain,2021-02-22 08:03:45
+109,Male,68,63000,43,Granada,37.1781,-3.6008,ES,232462,0,Otomatik Saç Maşası - Kalın Su Dalgası 25mm Extra Uzun Başlıklı,Shibowavy,855,395.01,Spain,2021-06-27 11:11:25
+110,Male,66,63000,48,Badalona,41.4333,2.2333,ES,220440,0,Xiaomi Mi Band 5 Ve 6 Uyumlu Kordon Seti 3lü,PUFWİN,660,41.78,Spain,2021-11-06 23:03:02
+111,Male,65,63000,52,Sabadell,41.5483,2.1075,ES,213644,0,"15.6"" Inç Siyah Evrak Bilgisayar Notebook Laptop Çantası",Moda West,528,96.71,Spain,2021-09-22 21:37:10
+112,Female,19,63000,54,Cartagena,37.6,-0.9819,ES,214802,0,Matepad T10s 10.1 Inç Kılıf Uyumlu Dönebilen Kılıf Ekran Koruyucu Dokunmatik Kalem,Huawei,71,129.0,Spain,2021-07-07 13:38:54
+113,Female,38,64000,42,Jerez De La Frontera,36.7,-6.1167,ES,212749,0,Samsung Galaxy Tab S6 Lite P610 Uyumlu Kalem Bölmeli Pu Deri Arkası Yumuşak Koruyucu Silikon Kılıf,Fibaks,118,189.9,Spain,2021-04-24 09:47:33
+114,Male,19,64000,46,Pamplona,42.8167,-1.65,ES,201653,0,"Ipad 9. Nesil 10.2"" Uyumlu Kılıf Kalem Bölmeli Tri Folding Smart Standlı Yumuşak Silikon Tam Koruma",Fibaks,30,189.9,Spain,2021-06-10 23:26:54
+115,Female,18,65000,48,Santa Cruz,28.4667,-16.25,ES,207312,0,"S400 128gb 550mb 500mbs Sata3 2,5 Gaming Ssd",IZOLY,110,228.0,Spain,2021-01-23 18:57:33
+116,Female,19,65000,50,Almeria,36.8333,-2.45,ES,198533,0,Gece Görüşlü 360 Derece Led Işık 1080p Wifi Kamera Kablosuz Panoramik Ev Güvenlik Kamersı,BiNtech,22,445.0,Spain,2021-01-10 02:53:49
+117,Female,63,65000,43,Oviedo,43.3634,-5.8423,ES,189434,0,Collector Hepa Filtreli Şarjlı El Süpürgesi,Fakir,786,679.35,Spain,2021-11-15 22:52:08
+118,Female,49,65000,59,Mataro,41.54,2.45,ES,183293,0,Krem Macbook Air Pro 13 13.3-14 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,643,140.71,Spain,2021-08-25 07:58:42
+119,Female,51,67000,43,Santander,43.4667,-3.8,ES,172539,0,Uyumlu Xiaomi Mi Band 4 Usb Şarj Cihazı Dock Kablosu Yüksek Kalite Kordon Kayış,NARİTA,341,28.6,Spain,2021-02-05 11:28:25
+120,Female,50,67000,57,Albacete,38.9956,-1.8558,ES,173329,0,Mini Pro Led Ekran 10.000 Mah 2 Çıkışlı Taşınabilir Şarj Cihazı Powerbank siyah,İntouch,178,180.51,Spain,2021-08-15 11:29:47
+121,Male,27,67000,56,Tokyo,35.6897,139.692,JP,37977000,1,"Ipad 9. Uyumlu Nesil 10.2"" Kılıf Kalem Bölmeli Tri Folding Smart Standlı Yumuşak Silikon Tam Koruma",Fibaks,37,189.9,Japan,2021-04-25 01:01:41
+122,Female,38,67000,40,Osaka,34.6936,135.502,JP,14977000,0,Iphone 11 Uyumlu Kılıf Köşeleri Renkli Şeffaf Kamera Korumalı Silikon Kuxury Kapak,Ceponya,14,85.0,Japan,2021-03-07 17:15:21
+123,Female,40,69000,58,Nagoya,35.1167,136.933,JP,9113000,0,Kablolu Klavye &amp; Mouse Seti,Deiog Marka,2004,132.13,Japan,2021-11-04 11:17:56
+124,Male,39,69000,91,Yokohama,35.4333,139.633,JP,3748781,0,Scart Uydu Elektromaster Kgs 2100,Electro Master,83,134.0,Japan,2021-12-08 05:50:26
+125,Female,23,70000,29,Fukuoka,33.5903,130.402,JP,2128000,0,Instax Mini 7 8 9 10 11 Uyumlu (10) Poz,Fujifilm,567,169.0,Japan,2021-12-25 07:58:35
+126,Female,31,70000,77,Sapporo,43.0621,141.354,JP,1958756,0,Iphone 11 Minik Kalpler Beyaz Desenli Şeffaf Telefon Kılıfı,butikcase,47,28.91,Japan,2021-06-17 17:21:18
+127,Male,43,71000,35,Kyoto,35.0111,135.767,JP,1805000,0,"Matepad T10 4gb Bellek 64gb Hafıza 9.7"" Tablet Deniz Mavisi",Huawei,38,2199.0,Japan,2021-09-05 21:50:38
+128,Male,40,71000,95,Kobe,34.6913,135.183,JP,1522944,0,OneBlade Şekillendirici Tıraş Makinesi (Yüz&amp;Vücut) -,Philips,261,899.0,Japan,2021-08-16 17:51:02
+129,Male,59,71000,11,Kawanakajima,35.53,139.705,JP,1437266,0,Iphone Usb-c To Lightning Hızlı Şarj Ve Data Kablosu,whodes,15,29.0,Japan,2021-06-15 08:04:48
+130,Male,38,71000,75,Saitama,35.8617,139.645,JP,1307931,0,Hp8361/00 Procare Keratin Saç Düzleştirici,Philips,2534,2389.0,Japan,2021-07-30 06:26:30
+131,Male,47,71000,9,Hiroshima,34.3853,132.455,JP,1306589,0,Iphone 11 Logolu Vişne (KÖŞELİ 12 GÖRÜNÜMLÜ)lansman Içi Kadife Aa Kalite,Go Aksesuar,389,42.34,Japan,2021-03-21 01:14:45
+132,Male,39,71000,75,Sendai,38.2683,140.869,JP,1058070,0,Bluetooth Kablosuz Kulaklık Temizleme Kalemi Aparatı Temizleme Kiti,LEV AKSESUAR,169,56.72,Japan,2021-06-22 22:57:53
+133,Female,25,72000,34,Kitaku,33.8704,130.82,JP,997536,0,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,109,59.9,Japan,2021-03-22 19:13:44
+134,Female,31,72000,71,Chiba,35.6,140.1,JP,980203,0,Dokunmatik Tablet Akıllı Tahta Telefon Kalemi - Üniversal Silikon Uçlu Tablet Telefon Kalemi,MİRAKSESUAR,11,9.9,Japan,2021-09-14 02:17:34
+135,Male,20,73000,5,Niigata,37.9161,139.036,JP,796500,0,Şeffaf Iphone 12/12 Pro Magsafe Özellikli Kılıf,ALBTEKS,244,53.53,Japan,2021-10-17 10:56:12
+136,Female,29,73000,88,Hamamatsu,34.7167,137.733,JP,791770,0,S5 Max 2li Mop Fiber Yedek Bezi,Roborock,194,138.6,Japan,2021-06-08 14:29:08
+137,Female,44,73000,7,Kumamoto,32.8031,130.708,JP,739393,0,Iphone 11 Uyumlu Kiraz Desenli Kılıf,Go Aksesuar,162,52.11,Japan,2021-02-24 23:11:48
+138,Male,32,73000,73,Sagamihara,35.5667,139.367,JP,722828,0,Iphone 13 Pro Ve 13 Pro Max Uyumlu Kamera Koruyucu Lens,Fibaks,50,29.99,Japan,2021-07-19 10:50:30
+139,Male,19,74000,10,Okayama,34.65,133.917,JP,720865,0,Rowenta Ro 3751 Ta Compact Power Cyclonic Hepa Filtre Seti,Bosch,21,60.0,Japan,2021-09-01 08:10:39
+140,Female,35,74000,72,Shizuoka,34.9756,138.383,JP,691185,0,Ar1108 Smarty Neo 900 w Blender Seti,Arzum,2680,489.9,Japan,2021-04-25 09:49:16
+141,Female,57,75000,5,Honcho,35.6947,139.982,JP,639107,0,"Tab M10 2.3ghz 4 64 10.1"" 1280x800 Ips Za6w0121tr Gri Tablet (Lenovo Türkiye Garantili)",LENOVO,162,2671.0,Japan,2021-08-12 13:12:42
+142,Male,32,75000,93,Kawaguchi,35.8078,139.724,JP,592373,0,Elektrikli Setüstü Hotplate Ocak (lx-7021),KUMTEL,731,549.0,Japan,2021-10-04 09:03:39
+143,Female,28,76000,40,Kagoshima,31.58,130.528,JP,595319,0,Iphone 11 Manzara Desenli Kamera Korumalı Kılıf,Go Aksesuar,192,70.75,Japan,2021-10-13 09:35:25
+144,Female,32,76000,87,Hachioji,35.6667,139.317,JP,577560,0,"Iphone 11 Uyumlu 6.1"" Kenarları Renkli Kamera Korumalı Transparan Kılıf",Teknoçeri,1608,29.9,Japan,2021-03-31 23:47:14
+145,Male,25,77000,12,Utsunomiya,36.55,139.883,JP,519255,0,"120 Gb Ssd Bg-1071, Sata-3, 2.5""/7mm, 540mb/sn'e Kadar",Bugatek,407,243.46,Japan,2021-06-07 02:49:36
+146,Male,28,77000,97,Matsuyama,33.8333,132.767,JP,509139,0,Macbook Air Ve Ultrabook 13 -13.3 &amp; 14 Inc Uyumlu Su Geçirmez Özellikli Kılıf,D'VERS,327,92.31,Japan,2021-04-25 21:24:09
+147,Male,48,77000,36,Ichikawa,35.7219,139.931,JP,495592,0,"Füme Su Geçirmez Fermuar Detaylı Unisex 15-15,6 Inç Uyumlu Macbook Kılıf Notebook Laptop Çantası",D'VERS,200,92.31,Japan,2021-06-18 10:00:52
+148,Female,32,77000,74,Higashi-Osaka,34.6794,135.601,JP,494640,0,Akıllı Robot Süpürge Filtre Seti - Mijia1c - Stytj01zhm Uyumlu,Xiaomi,761,199.75,Japan,2021-08-25 00:01:52
+149,Female,34,78000,22,Matsudo,35.7878,139.903,JP,492671,0,Samsung Galaxy Tab S6 Lite P610 Uyumlu Kalem Bölmeli Pu Deri Arkası Yumuşak Koruyucu Silikon Kılıf,Fibaks,65,189.9,Japan,2021-07-15 12:30:08
+150,Male,34,78000,90,Nishinomiya-Hama,34.7333,135.333,JP,487413,0,"Via S48 8"" 32gb Ips Tablet",Casper,444,1549.0,Japan,2021-11-11 12:33:43
+151,Male,43,78000,17,London,51.5072,-0.1275,GB,10979000,1,"LS22F350FHRXUF 21.5"" 60Hz 5ms (Analog+HDMI) Full HD LED Monitör",Samsung,33,1898.0,United Kingdom,2021-02-13 11:12:24
+152,Male,39,78000,88,Birmingham,52.48,-1.9025,GB,2897303,0,"15.6"" Inç Su Geçirmez Kumaş Özellikli Evrak Bilgisayar Notebook Laptop Çantası",Moda West,784,101.11,United Kingdom,2021-10-18 05:56:32
+153,Female,44,78000,20,Manchester,53.4794,-2.2453,GB,2705000,0,"Unisex 15,6'' Business Serisi 4 Bölmeli Laptop Evrak Çantası",D'VERS,716,149.51,United Kingdom,2021-05-05 04:35:41
+154,Female,38,78000,76,Leeds,53.7997,-1.5492,GB,1901934,0,Xiaomi Mi Band 3 / Mi Band 4 Uyumlu Silikon Kordon Seti (özel Saklama Kutusunda 7 Adet),HOFFICE,63,78.2,United Kingdom,2021-02-01 13:36:51
+155,Female,47,78000,16,Newcastle,55.0077,-1.6578,GB,1650000,0,"Siyah Su Geçirmez Fermuar Detaylı 15,6inch Darbeye Karşı Korumalı Kılıf Notebook Laptop Çantası",D'VERS,356,136.31,United Kingdom,2021-10-21 12:25:44
+156,Female,27,78000,89,Birstall,52.6736,-1.12,GB,1424216,0,Iphone 13 Pro Max &amp; 13 Pro Uyumlu Alüminyum Alaşım 3d Kamera Lens Koruyucu Sierra Mavisi [3'lü Set],HyperAge,297,56.76,United Kingdom,2021-10-29 17:15:38
+157,Male,37,78000,1,Glasgow,55.8609,-4.2514,GB,985290,0,Xiaomi Mi Band 5 Ve 6 Uyumlu Silikon Kordon 7'li Set,APEXEL,385,86.46,United Kingdom,2021-07-22 18:47:33
+158,Female,30,78000,78,Liverpool,53.4,-2.9833,GB,864122,0,Iphone 11 Dünya Harita Desenli Premium Şeffaf Silikonlu Kılıf,mooodcase,801,35.76,United Kingdom,2021-02-09 22:39:05
+159,Male,34,78000,1,Southampton,50.9,-1.4,GB,855569,0,Iphone 11 Kılıf Darbelere Dayanıklı Sert Silikon Şeffaf,Telefon Aksesuarları,305,20.16,United Kingdom,2021-08-15 05:56:06
+160,Female,30,78000,73,Portsmouth,50.8058,-1.0872,GB,855679,0,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,76,59.9,United Kingdom,2021-09-25 05:29:48
+161,Female,56,79000,35,Nottingham,52.95,-1.15,GB,768638,0,Yüz Temizleyici Epilasyon Aleti,Flawless,780,58.9,United Kingdom,2021-07-20 22:04:40
+162,Female,29,79000,83,Bristol,51.45,-2.5833,GB,724000,0,"5000 Series Saç Düzleştirici ;Argan Yağı Katkılı Plakalar, Thermo Shield Teknoloji",Philips,255,1138.0,United Kingdom,2021-05-19 08:26:03
+163,Male,19,81000,5,Sheffield,53.3833,-1.4667,GB,685368,0,UB400 Bluetooth 4.0 Mini USB Adaptör,Tp-Link,891,128.99,United Kingdom,2021-04-06 17:33:31
+164,Female,31,81000,93,Kingston Upon Hull,53.7444,-0.3325,GB,573300,0,Elektronik Sihirli Akıllı Mouse Kumanda Yerine Tüm Model Smart 3d Tv Televizyon Tuşlu Kumanda,LG,106,29.89,United Kingdom,2021-06-07 01:35:34
+165,Male,50,85000,26,Leicester,52.6333,-1.1333,GB,508916,0,Kroko Siyah Unisex 13 - 13.3 - 14 Inç Uyumlu Macbook Kılıf Notebook Laptop Çantası,D'VERS,348,127.51,United Kingdom,2021-12-31 18:04:03
+166,Female,36,85000,75,Edinburgh,55.953,-3.189,GB,488050,0,Apple Iphone 11 Tam Uyumlu Kılıf Parlak Kamera Lens Koruyuculu Luxury Design,Zore,6,64.8,United Kingdom,2021-12-31 21:59:30
+167,Male,42,86000,20,Caerdydd,51.4833,-3.1833,GB,479000,0,Gm 22 Pro Şeffaf Silikon Kılıf Orijinal Tam Uyumlu Baristrend (G702),General Mobile,97,29.2,United Kingdom,2021-10-27 19:32:01
+168,Female,33,86000,95,Stoke-On-Trent,53.0,-2.1833,GB,372775,0,Tostçu Neo Granite 1800 W Granit Tost Makinesi Ar2035,Arzum,359,807.4,United Kingdom,2021-08-17 20:31:28
+169,Female,36,87000,27,Coventry,52.4081,-1.5106,GB,362690,0,X515ma-br468 Intel N4020 4gb Ram 256gb Ssd 15.6'' Hd Freedos,ASUS,5,5099.0,United Kingdom,2021-11-05 08:39:34
+170,Male,32,87000,63,Reading,51.4542,-0.9731,GB,337108,0,Crystal Eraser Epilasyon Aleti Tüy Silgisi Kristal Epilatör Siyah,THE LADY BEAUTY SHOP,98,98.99,United Kingdom,2021-02-26 22:10:12
+171,Male,40,87000,13,Belfast,54.5964,-5.93,GB,333871,0,Iphone 14 Pro Uyumlu Kılıf Magsafe Wireless Kablosuz Şarj Destekli Sararmaz Şeffaf Darbe Emici Kapak,Fibaks,12,134.99,United Kingdom,2021-09-29 23:42:40
+172,Male,28,87000,75,Derby,52.9167,-1.4667,GB,270500,0,Profesyonel Elektrikli Saç Düzleştirici Tarak Fast Hair Straightenerr Extra Kalite,SİRANUS,2,219.0,United Kingdom,2021-07-17 20:39:29
+173,Male,36,87000,10,Plymouth,50.3714,-4.1422,GB,267918,0,Ipad Air 5 Ve Air 4.nesil 10.9 Ekran Koruyucu Nano Esnek Cam Hdrt,HopyKent,66,121.54,United Kingdom,2021-07-08 06:13:29
+174,Male,36,87000,92,Wolverhampton,52.5833,-2.1333,GB,254406,0,Samsung Galaxy Fit 2 Kordon Spor Silikon Siyah,Regetto,28,79.9,United Kingdom,2021-12-25 10:28:20
+175,Female,52,88000,13,Abertawe,51.6167,-3.95,GB,245500,0,Iphone 13 Pro Ve 13 Pro Max Uyumlu Kamera Koruyucu Lens,Fibaks,43,29.99,United Kingdom,2021-11-11 03:38:51
+176,Female,30,88000,86,Milton Keynes,52.04,-0.76,GB,229941,0,Iphone 13 Uyumlu Lacivert Lansman Içi Kadife Silikon Logolu Kılıf,TrendCell,157,29.99,United Kingdom,2021-02-26 17:13:07
+177,Male,58,88000,15,Islington,51.544,-0.1027,GB,206125,0,Trendfit Dijital Lcd Ekran Temperli Cam 180 Kg Kapasiteli Banyo Baskül Tartı,GoldMaster,1383,159.9,United Kingdom,2021-08-18 12:55:08
+178,Male,27,88000,69,Aberdeen,57.15,-2.11,GB,214610,0,Iphone 14 Pro Kılıf Kamera Çıkıntılı Sararmaz Şeffaf Sert Metal Buton Pürüzsüz Kapak Uyumlu,Fibaks,3,108.9,United Kingdom,2021-02-09 06:18:01
+179,Male,59,93000,14,Luton,51.8783,-0.4147,GB,213052,0,Gece Görüşlü Kablosuz Bebek Izleme Kamerası Wifi Ip Kamera,Tiffany,51,396.8,United Kingdom,2021-02-03 04:55:37
+180,Male,35,93000,90,Norwich,52.63,1.297,GB,213166,0,Iphone 7 / 8 / Se 2020 Şok Darbe Emici Şeffaf Silikon Kılıf,Teknoçeri,1807,29.9,United Kingdom,2021-02-10 07:22:04
+181,Female,37,97000,32,Moscow,55.7558,37.6178,RU,17125000,1,Apple Iphone 7plus 8plus Uyumlu Temperli Şeffaf Kenarlı Ekran Koruyucu Kırılmaz Telefon Camı 2 Adet,Tria,387,29.9,Russian Federation,2021-11-25 18:41:20
+182,Female,32,97000,86,Saint Petersburg,59.95,30.3167,RU,5351935,0,Rz01-03850100-r3m1 Deathadder Essential Optik Kablolu Siyah Oyuncu Mouse,RAZER,23,270.7,Russian Federation,2021-11-15 01:44:04
+183,Male,46,98000,15,Novosibirsk,55.0333,82.9167,RU,1602915,0,Kablosuz Lazer Sunum Kumandası Tp01,TRILOGIC,2,139.41,Russian Federation,2021-10-05 15:57:38
+184,Female,29,98000,88,Yekaterinburg,56.8356,60.6128,RU,1468833,0,Iphone 14 Pro Kılıf Yumuşak Şeffaf Ince Esnek Renksiz Silikon Kapak,Fibaks,5,29.99,Russian Federation,2021-02-02 16:01:36
+185,Female,41,99000,39,Nizhniy Novgorod,56.3269,44.0075,RU,1264075,0,Iphone 14 Pro Max Uyumlu Kılıf Kamera Çıkıntılı Koruma Sararmaz Şeffaf A Kalite Arka Kapak,m.tk moveteck,6,89.9,Russian Federation,2021-06-04 06:17:15
+186,Male,30,99000,97,Kazan,55.7908,49.1144,RU,1243500,0,P13 Blue Plus 2022 Silikon Telefon Kılıfı,Reeder,20,23.9,Russian Federation,2021-09-16 06:06:45
+187,Female,54,101000,24,Chelyabinsk,55.15,61.4,RU,1202371,0,T500 Akıllı Saat Türkçe Menülü Nabız&amp;tansiyon Ölçer Arama Özellikli Ios&amp;anroid Çift Tuş Smartwatch,TECHNOMEN,109,209.9,Russian Federation,2021-11-22 07:58:32
+188,Male,28,101000,68,Omsk,54.9667,73.3833,RU,1178391,0,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,114,59.9,Russian Federation,2021-12-19 05:51:20
+189,Female,41,103000,17,Samara,53.1833,50.1167,RU,1169719,0,Rebera Xiaomi Mi Box S 4k Tv Stick Netflix Prime Video Tuşlu Kumanda,KR,96,148.8,Russian Federation,2021-10-19 05:36:31
+190,Female,36,103000,85,Rostov,47.2333,39.7167,RU,1125299,0,Burun Ve Kulak Kılı Kesme Makinesi Str-4919,Sinbo,788,106.92,Russian Federation,2021-11-27 10:46:08
+191,Female,34,103000,23,Ufa,54.7333,55.9667,RU,1115560,0,K120 USB Kablolu Türkçe Q Klavye - Siyah,logitech,285,180.0,Russian Federation,2021-12-27 08:30:42
+192,Female,32,103000,69,Krasnoyarsk,56.0167,92.8667,RU,1083865,0,Samsung Galaxy Tab S6 Lite P610 Uyumlu Origami Kalem Bölmeli Pu Deri Arkası Yumuşak Silikon Kılıf,Nezih Case,102,189.11,Russian Federation,2021-10-17 23:41:39
+193,Male,33,113000,8,Voronezh,51.6717,39.2106,RU,1047549,0,Xiaomi Mi Band 4 Akıllı Bileklik,ALİBU,23,149.99,Russian Federation,2021-08-14 22:03:36
+194,Female,38,113000,91,Perm,58.0139,56.2489,RU,1048005,0,Soonbox S4406 Disko Ledli Mikrofonlu Işıklı Bluetooth Hoparlör Kablosuz Taşınabilir Speaker,OWWOTECH,7,340.0,Russian Federation,2021-02-01 04:54:53
+195,Female,47,120000,16,Volgograd,48.7,44.4833,RU,1015586,0,"Watch SE GPS, 44mm Gold Aluminium Case with Starlight Sport Band - Regular",Apple,162,6149.0,Russian Federation,2021-10-18 05:29:24
+196,Female,35,120000,79,Krasnodar,45.0333,38.9833,RU,881476,0,Profesyonel Seramik Wag Şu Dalgası Saç Maşası 220 Derece 25 Mm Kalın Bukle,WENTER,231,290.0,Russian Federation,2021-10-15 20:28:05
+197,Female,45,126000,28,Saratov,51.5333,46.0,RU,845300,0,"Aspire C24-1650 Intel Core I5 1135g7 8gb 512gb Ssd Freedos 23.8"" Fhd Aıo Dq.bfsem.006",ACER,6,12838.0,Russian Federation,2021-07-21 21:05:16
+198,Male,32,126000,74,Tyumen,57.15,65.5333,RU,744554,0,"Kulak Içi Mikrofonlu Mobil Pubg Kulaklığı 3,5 Mm Aux Standart Giriş",Xrades,405,139.41,Russian Federation,2021-12-30 05:25:32
+199,Male,32,137000,18,Tolyatti,53.5167,49.4167,RU,707408,0,Iphone 13 Pro Max Uyumlu Kılıf Magsafe Köşeleri Renkli Şeffaf Kamera Korumalı Silikon Kapak,Ceponya,7,113.0,Russian Federation,2021-12-08 08:00:50
+200,Male,30,137000,83,Izhevsk,56.85,53.2167,RU,646277,0,"Unisex West Serisi 15.6"" Inç Füme Evrak Bilgisayar Notebook Laptop Çantası",Moda West,86,114.31,Russian Federation,2021-01-18 17:50:53

@@ -1,0 +1,201 @@
+CustomerID,Genre,Age,Annual_Income_(k$),Spending_Score,name,latitude,longitude,country,population,is_capital,product_name,product_brand,product_rating,product_price
+1,Male,19,15,39,New York,40.6943,-73.9249,US,18713220,False,64 GB Metal Usb Flash Bellek,Powerway,(1479),"74,90 TL"
+2,Male,21,15,81,Los Angeles,34.1139,-118.407,US,12750807,False,MG3710/15 Multigroom 3000 Series 6 in 1 Erkek Bakım Kiti,Philips,(10447),"503,90 TL"
+3,Female,20,16,6,Chicago,41.8373,-87.6862,US,8604203,False,Airfryer 4.5l Akıllı Yağsız Hava Fritözü,Wiami,(92),1.849 TL
+4,Female,23,16,77,Miami,25.7839,-80.2102,US,6445545,False,32 GB Metal Usb Flash Bellek,Powerway,(890),"54,90 TL"
+5,Female,31,17,40,Dallas,32.7936,-96.7662,US,5743938,False,Yağ Ölçer Fonksiyonlu Baskül Akıllı Bluetooth Tartı,comedones,(2784),"153,89 TL"
+6,Female,22,17,76,Philadelphia,40.0077,-75.1339,US,5649300,False,Profesyonel Seramik Wag Şu Dalgası Saç Maşası 220 Derece 25 Mm,CVS,(295),291 TL
+7,Female,35,18,6,Houston,29.7863,-95.3889,US,5464251,False,Daily Collection Siyah Filtre Kahve Makinesi,Philips,(6680),"742,50 TL"
+8,Female,23,18,94,Atlanta,33.7627,-84.4224,US,5449398,False,Lia Katlanabilir Seyahat Tipi Saç Kurutma Makinesi,Raks,(6060),178 TL
+9,Male,64,19,3,Washington,38.9047,-77.0163,US,5379184,True,64 Gb Micro Sd Hafıza Kartı Adaptör Dahil,Powerway,(1094),"82,90 TL"
+10,Female,30,19,72,Boston,42.3188,-71.0846,US,4688346,False,Xiaomi mi Band 3 Ve Mi Band 4 Uyumlu Silikon Kordon Siyah (SADECE KORDON),UNIQUE ME,(211),"12,95 TL"
+11,Male,67,19,14,Phoenix,33.5722,-112.089,US,4219697,False,Iphone 11 Uyumlu Mat Şeffaf Hux Kilif,Go Aksesuar,(409),"41,32 TL"
+12,Female,35,19,99,Seattle,47.6211,-122.324,US,3789215,False,Ar1004 Soprano Max Multi 1000 w Blender Seti,Arzum,(3934),"799,90 TL"
+13,Female,58,20,15,San Francisco,37.7562,-122.443,US,3592294,False,"Tab M8 TB-8505F 32GB 8"" ZA5G0100TR IPS Gri Tablet (Lenovo Türkiye Garantili)",LENOVO,(640),1.299 TL
+14,Female,24,20,77,Detroit,42.3834,-83.1024,US,3506126,False,Iphone 11 Logolu 12 Görünümlü Grafity Lansman Kılıf,Go Aksesuar,(2134),"55,98 TL"
+15,Male,37,20,13,San Diego,32.8312,-117.122,US,3220118,False,Iphone 11 Logolu Lansman Kılıf Kamera Korumalı Fıstık Yeşil,TrendCell,(462),"29,99 TL"
+16,Male,22,20,79,Minneapolis,44.9635,-93.2678,US,2977172,False,"Serisi 15.6"" Inç Siyah Evrak Bilgisayar Notebook Laptop Çantası",Moda West,(2334),"114,31 TL"
+17,Female,35,21,35,Tampa,27.9942,-82.4451,US,2908063,False,Smw-777 Kablosuz Siyah Optik Mouse,Everest,(6179),77 TL
+18,Male,20,21,66,Denver,39.7621,-104.876,US,2876625,False,Fc9750/07 Powerpro Max Torbasız Elektrikli Süpürge,Philips,(5005),"3.761,01 TL"
+19,Male,52,23,29,Brooklyn,40.6501,-73.9496,US,2559903,False,Iphone Şarj Aleti (İPHONE 13 - 12 - 11 - X-8-7-6) 2.1a Orjinal Hızlı Şarj Aleti,Ttec,(1246),"119,48 TL"
+20,Female,35,23,98,Queens,40.7498,-73.7976,US,2230722,False,Windows 10 Pro Orjinal Dijital Lisans Anahtarı,Microsoft Studios,(17),7 TL
+21,Male,35,24,35,Riverside,33.9381,-117.395,US,2107852,False,"Gx40q17225 Case 15.6"" Toploader B210 Notebook Sırt Çantası Siyah",LENOVO,(441),"250,99 TL"
+22,Male,25,24,73,Baltimore,39.3051,-76.6144,US,2106068,False,Iphone 11/12 Uyumlu Swarowski Taşlı Silver Kamera Lens Koruyucu,Powerfox,(152),"24,99 TL"
+23,Female,46,25,5,Las Vegas,36.2333,-115.265,US,2104198,False,Kroko Siyah Macbook Air Pro 13-14-15.6 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,(1899),"140,71 TL"
+24,Male,31,25,73,Portland,45.5372,-122.65,US,2074775,False,Iphone Tüm Serilerle Uyumlu Hızlı Şarj Aleti Kablo Adaptör Set Iphone 11 / 12 / 13 / Pro / Pro Max,Techomi,(20),"85,03 TL"
+25,Female,54,28,14,San Antonio,29.4658,-98.5253,US,2049293,False,20000 Mah Powerbank Taşınabilir Şarj Cihazı Mi Powerbank,Xiomar,(38),"174,22 TL"
+26,Male,29,28,82,St. Louis,38.6358,-90.2451,US,2024074,False,Siyah Macbook Air Pro 13-14-15.6 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,(1400),"140,71 TL"
+27,Female,45,28,32,Sacramento,38.5667,-121.468,US,1898019,False,"Galaxy Tab A8 10,5 Wifi 3/32 Gb Sm-x200 Silver",Samsung,(303),"2.999,49 TL"
+28,Male,35,28,61,Orlando,28.4772,-81.3369,US,1822394,False,Nokıa 112 Tuşlu Kamerasız Cep Telefonu,mydeppo,(78),339 TL
+29,Female,40,29,31,San Jose,37.3019,-121.849,US,1798103,False,Iphone 11 (6.1') Uyumlu Altı Kapalı Logolu Lansman Kılıf Kapak Buz Mavi,TrendCell,(235),"29,99 TL"
+30,Female,23,29,87,Cleveland,41.4767,-81.6804,US,1710093,False,"Siyah Su Geçirmez Fermuar Detaylı Unisex 15-15,6 Inç Uyumlu Macbook Kılıf Notebook Laptop Çantası",D'VERS,(356),"92,31 TL"
+31,Male,60,30,4,Istanbul,41.01,28.9603,TR,15154000,False,Goldiacase Taşlı Telefon Bilek Askısı,moz dekorasyon,(922),"23,45 TL"
+32,Female,21,30,73,Ankara,39.93,32.85,TR,5503985,True,Apple Ipad 8. Ve 9. Nesil 10.2 Uyumlu Kılıf Katlanır Kalemlikli Standlı Uyku Modlu Akıllı Kılıf,Fibaks,(104),"189,90 TL"
+33,Male,53,33,4,Izmir,38.4127,27.1384,TR,4320519,False,Iphone 11 Uyumlu Logolu Içi Kadife Lansman Kılıf Kapak Beyaz,TrendCell,(95),"29,99 TL"
+34,Male,18,33,92,Bursa,40.1833,29.0667,TR,2901396,False,Iphone 11 Uyumlu Papatya Desenli Kılıf,Go Aksesuar,(619),"60,84 TL"
+35,Female,49,33,14,Antalya,36.9081,30.6956,TR,2426356,False,DeathAdder Essential Siyah Optik Gaming Mouse RZ01-02540100-R3M1,RAZER,(1836),279 TL
+36,Female,21,33,81,Konya,37.8714,32.4847,TR,2232374,False,Iphone 11 Logolu Lansman Lila Kılıf Altı Kapalı Iç Kısmı Kadife,TrendCell,(391),"29,99 TL"
+37,Female,42,34,17,Adana,37.0,35.325,TR,2220125,False,Ataelektronik Sihirli Akıllı Mouse Kumanda Yerine Tüm Model Smart 3d Tv Televizyon Tuşlu Kumanda 930,LG,(980),"29,89 TL"
+38,Female,30,34,73,Gaziantep,37.0667,37.3833,TR,2028563,False,"Multifry Beyaz Air Fryer Yağsız Fritöz 3,5 L",Karaca,(183),1.999 TL
+39,Female,36,37,26,Sanliurfa,37.1583,38.7917,TR,1985753,False,Airfryer 3.5l Akıllı Yağsız Hava Fritözü,Wiami,(37),1.649 TL
+40,Female,20,37,75,Mersin,36.8,34.6167,TR,1814468,False,Iphone 11 Uyumlu Logolu Altı Kapalı Içi Kadife Lansman,Go Aksesuar,(20),"29,99 TL"
+41,Female,65,38,35,Diyarbakir,37.9108,40.2367,TR,1732396,False,Powerbank Ultra Compact 10000 Mah Dlp Seri Dlp1810nb/62 Taşınabilir Şarj Cihazı Çift Usb Çıkışı,Philips,(1757),239 TL
+42,Male,24,38,92,Kayseri,38.7333,35.4833,TR,1389680,False,Ar6030 Steampro Plus Buharlı Ütü - Mavi,Arzum,(65),"434,90 TL"
+43,Male,48,39,36,Samsun,41.2867,36.33,TR,1335716,False,Xiaomi Mi Band 5 Ve 6 Uyumlu Kordon Seti 5li,APEXEL,(466),"59,40 TL"
+44,Female,31,39,61,Tekirdag,40.9833,27.5167,TR,1029927,False,Xiaomi Mi Band 3/4 Uyumlu Desenli Kordon Siyah,APEXEL,(1321),"20,85 TL"
+45,Female,49,39,28,Denizli,37.7731,29.0878,TR,963464,False,Iphone 11 6d Tam Kaplayan Ceramic Nano Ekran Koruyucu Film,Go Aksesuar,(703),"23,81 TL"
+46,Female,24,39,65,Eskisehir,39.7767,30.5206,TR,871187,False,Redmi Watch 2 Lite Bej Akıllı Saat 2022 Yeni Model (Xiaomi Türkiye Garantili),Xiaomi,(78),"1.028,90 TL"
+47,Female,50,40,55,Trabzon,41.005,39.7225,TR,807903,False,Kalp Desenli Iphone 11 Kılıf,moodcase,(332),"36,10 TL"
+48,Female,27,40,47,Erzurum,39.9097,41.2756,TR,767848,False,Iphone 13 Arka Kırılmaz Cam Ekran Koruyucu,Powerfox,(106),"16,99 TL"
+49,Female,29,40,42,Malatya,38.3554,38.3337,TR,461574,False,Phililps Essential Kablolu Epilatör,Philips,(3401),"386,06 TL"
+50,Female,31,40,42,Batman,37.8833,41.1333,TR,447106,False,Iphone 11 Kılıf Magsafe Köşeleri Renkli Lüx Şeffaf Kamera Korumalı Silikon,Ceponya,(17),108 TL
+51,Female,49,42,52,Kahramanmaras,37.5875,36.9453,TR,443575,False,"17"" Siyah Notebook Laptop Bilgisayar Sırt Çantası-s",RELIANCE,(684),"139,90 TL"
+52,Male,33,42,60,Elazig,38.6667,39.2167,TR,421726,False,Watch 7 Max Dt 7 Max Smartwatch 2022 Yeni Nesil Akıllı Saat Konum Ve Nfc Özellikli Siyah,ShinyWATCH,(309),"599,90 TL"
+53,Female,31,43,54,Hatay,36.2,36.15,TR,377793,False,Iphone 11 Casetify Manifest Your Vision Desenli Anti Shock Premium Silikonlu Siyah Kenar Detaylı Tel,mooodcase,(435),"59,17 TL"
+54,Male,59,43,60,Sivas,39.75,37.0167,TR,377561,False,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,(265),"59,90 TL"
+55,Female,50,43,45,Kocaeli,40.7656,29.9406,TR,363416,False,32kh 32 Inç 55-82 Cm Iki Kol Kelebek Hareketli Askı Aparatı,UFİX,(281),"95,78 TL"
+56,Male,47,43,41,Van,38.5019,43.4167,TR,353419,False,Pudra Macbook Air Pro 13 13.3-14 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,(906),"140,71 TL"
+57,Female,51,44,50,Tarsus,36.9167,34.9,TR,339676,False,"Unisex West Serisi 15.6"" Inç Gri Evrak Bilgisayar Notebook Laptop Çantası",Moda West,(1534),"114,31 TL"
+58,Male,69,44,46,Balikesir,39.6511,27.8842,TR,331788,False,Iphone 11 Kılıf Magsafe Köşeleri Renkli Lüx Şeffaf Kamera Korumalı,Ceponya,(73),"118,20 TL"
+59,Female,27,46,51,Alanya,36.5436,31.9997,TR,312319,False,Samsung Orjinal Type-c S8 - S8+ - A3 A5 A7 2017hızlı Şarj Aleti,Universal,(85),"87,50 TL"
+60,Male,53,46,46,Adiyaman,37.7644,38.2763,TR,304615,False,Iphone 11 Yuvarlak Kamera Tasarımlı Yumuşak Silikon Kamera Korumalı Kılıf,Go Aksesuar,(238),"80,30 TL"
+61,Male,70,46,56,Berlin,52.5167,13.3833,DE,3644826,True,"Siyah Su Geçirmez Kumaş Su Geçirmez Fermuar Detaylı 15-15,6inch Uyumlu Unisex Laptop Evrak Çantası",D'VERS,(1458),"127,51 TL"
+62,Male,19,46,55,Hamburg,53.55,10.0,DE,1841179,False,Su Geçirmez Fermuar Detaylı 15.6 Inch Uyumlu Siyah Sırt Çantası,D'VERS,(331),"158,31 TL"
+63,Female,67,47,52,Munich,48.1372,11.5755,DE,1471508,False,"Ipad 9. Nesil 10.2"" Kılıf Uyumlu Kalem Bölmeli Folding Smart Standlı Yumuşak Silikon Tam Koruma",Fibaks,(67),"189,90 TL"
+64,Female,54,47,59,Cologne,50.9422,6.9578,DE,1085664,False,Airtag Akıllı Takip Cihazı (Apple Türkiye Garantili),Apple,(289),598 TL
+65,Male,63,48,51,Frankfurt,50.1136,8.6797,DE,753056,False,"15,6""-17,6"" Siyah Notebook Laptop Bilgisayar Sırt Çantası",RELIANCE,(203),"159,90 TL"
+66,Male,18,48,59,Bremen,53.1153,8.7975,DE,724909,False,Iphone 11 Logolu Kamera Korumalı Okyanus Lacivert Renk Lansman Içi Kadife Aa Kalite Uyumlu,Go Aksesuar,(519),"29,99 TL"
+67,Female,43,48,50,Stuttgart,48.7761,9.1775,DE,634830,False,Xiaomi Mi Band 5 | Mi Band 6 Uyumlu Silikon Yüksek Kalite Kordon Kayış,CONOCER,(250),"18,99 TL"
+68,Female,68,48,48,Dusseldorf,51.2311,6.7724,DE,619294,False,"Ipad 8. Nesil 2020 10.2"" Uyumlu Ekran Koruyucu Nano Esnek Flexible 9h Micro Temperli Kırılmaz Cam",Fibaks,(65),"49,99 TL"
+69,Male,19,48,59,Dortmund,51.5139,7.4653,DE,587010,False,"A359 Demkolik Sade 1600 W Çelik Çay Makinesi 1,8 0,9 Lt",KORKMAZ,(1032),"741,98 TL"
+70,Female,32,48,47,Essen,51.4508,7.0131,DE,583109,False,S5 Max 2li Uyumlu Uygun Mop Fiber Yedek Bezi,Roborock,(728),"127,71 TL"
+71,Male,70,49,55,Dresden,51.0493,13.7384,DE,555805,False,VIA.S30 4GB 64GB 10’’ FHD Tablet,Casper,(286),2.773 TL
+72,Female,47,49,42,Leipzig,51.35,12.3833,DE,542529,False,Iphone 11 Uyumlu 12 Görünümlü Logolu Lila Renk Lansman Içi Kadife Aa Kalite,Go Aksesuar,(937),"44,90 TL"
+73,Female,60,50,49,Hannover,52.3744,9.7386,DE,538068,False,Samsung Galaxy Tab S6 Lite P610 Uyumlu Kalem Bölmeli Pu Deri Arkası Yumuşak Koruyucu Silikon Kılıf,Fibaks,(205),"189,90 TL"
+74,Female,60,50,56,Nuremberg,49.4528,11.0778,DE,518365,False,Iphone 11 Arka Esnek Nano Koruyucu,Powerfox,(248),"16,99 TL"
+75,Male,59,54,47,Duisburg,51.4322,6.7611,DE,498590,False,Rm-420 Black Eagle 27 Fhd 165hz Ips Panel Vga + Hdmı*2 + Dp Flat Pc Oyuncu Monitörü,Rampage,(32),"3.297,99 TL"
+76,Male,26,54,54,Bochum,51.4833,7.2167,DE,364628,False,Iphone 11 Uyumlu Kamera Lens Koruyucu,Go Aksesuar,(448),"23,79 TL"
+77,Female,45,54,53,Wuppertal,51.2667,7.1833,DE,354382,False,Laptop Notebook Kamera Kapatıcı Ve Telefon Kamera Kapatıcı X 3'lü Set,Webcam Cover,(1560),"11,73 TL"
+78,Male,40,54,48,Bielefeld,52.0167,8.5333,DE,333786,False,"Tab M10 Plus Tb-x606f 10.3"" 128gb Wifi + Bluetooth Tablet Za6h0025tr",LENOVO,(305),"3.519,10 TL"
+79,Female,23,54,52,Bonn,50.7339,7.0997,DE,327258,False,S5 Max Uyumlu 5 Kollu Yan Fırça 2'li,Roborock,(300),79 TL
+80,Female,49,54,42,Munster,51.9625,7.6256,DE,314319,False,Beko Altus Grundig Smart Lcd Led Tv Televizyon Kumandası Netflix Tuşlu,Arçelik,(748),"29,99 TL"
+81,Male,57,54,51,Karlsruhe,49.0167,8.4,DE,313092,False,"TUF Gaming VG27VQ 27"" 165 Hz 1ms (HDMI+Display+DVI-D) FreeSync Full HD Curved Monitör",ASUS,(145),"4.582,49 TL"
+82,Male,38,54,55,Mannheim,49.4878,8.4661,DE,309370,False,Hd9951/00 Airfryer Xxl Izgara Ustası Seti,Philips,(24),538 TL
+83,Male,67,54,41,Augsburg,48.3717,10.8983,DE,295135,False,Iphone 11 Mat Seramik Nano Cam Ekran Koruyucu,Go Aksesuar,(487),"25,54 TL"
+84,Female,46,54,44,Wiesbaden,50.0825,8.24,DE,278342,False,Xiaomi Mi Band 3 Ve 4 Uyumlu 5'li Kordon Seti,APEXEL,(848),"58,50 TL"
+85,Female,21,54,57,Gelsenkirchen,51.5167,7.1,DE,260654,False,Bilek Destekli Siyah Renkli Baskılı Oval Mouse Pad,MAĞAZA DEPOM,(174),"25,30 TL"
+86,Male,48,54,46,Monchengladbach,51.2,6.4333,DE,261454,False,Recharger Duo+ Iphone Lightning Dahili Kablolu Taşınabilir Şarj Alet i10.000mah Siyah Powerbank,Ttec,(832),"216,49 TL"
+87,Female,55,57,58,Kiel,54.3233,10.1394,DE,247548,False,"Profesyonel Klasik 25mm Wag Maşa Seramik Kaplama, Geniş Ve Doğal Şekillendirme Yüzeyi",Shibowavy,(966),299 TL
+88,Female,22,57,55,Braunschweig,52.2692,10.5211,DE,248292,False,Iphone 11 Kamera Korumalı Business Darbe Emici Dayanıklı Siyah Kılıf,Bel Caso,(774),"29,90 TL"
+89,Female,34,58,60,Aachen,50.7762,6.0838,DE,247380,False,Iphone 11 Logolu Leylak Lansman Içi Kadife Aa Kalite,Go Aksesuar,(145),"29,99 TL"
+90,Female,50,58,46,Chemnitz,50.8333,12.9167,DE,245403,False,Game Master 120 Gb Ssd Sata3 550-500 Okuma-yazma,Qcell,(178),"221,73 TL"
+91,Female,68,59,55,Barcelona,41.3825,2.1769,ES,4588000,False,Iphone 13 Pro Max Uyumlu Kılıf Magsafe Köşeleri Renkli Şeffaf Kamera Korumalı Silikon Kapak,Ceponya,(19),118 TL
+92,Male,18,59,41,Madrid,40.4189,-3.6919,ES,3266126,True,Apple Ipad 10.2 (8. VE 9. NESİL) Tri Folding Tablet Kılıfı A2270 A2428 A2429 A2430 Siyah,Nezih Case,(416),"184,90 TL"
+93,Male,48,60,49,Sevilla,37.3828,-5.9731,ES,1212045,False,Iphone 6 / 6s Anti Şok Darbe Emici Silikon Şeffaf Kılıf Kapak,Teknoçeri,(1126),"29,90 TL"
+94,Female,40,60,40,Valencia,39.4667,-0.375,ES,794288,False,Iphone 11 Uyumlu Siyah Kamera Lens Korumalı Dünya Harita Desenli Lüx Telefon Kılıfı,mooodcase,(717),"44,90 TL"
+95,Female,32,60,42,Zaragoza,41.6483,-0.883,ES,649404,False,Apple Iphone 11 (6.1) Darbe Önleyici Kamera Korumalı Şeffaf Silikon Kılıf Aa Kalite,Go Aksesuar,(749),"23,80 TL"
+96,Male,24,60,52,Malaga,36.7167,-4.4167,ES,574654,False,Iphone 11 /iphone Xr Kavisli Gizlilik Filtreli Hayalet Cam Ekran Koruyucu,Go Aksesuar,(349),"34,25 TL"
+97,Female,47,60,47,Palma,39.5667,2.6497,ES,416065,False,Iphone 7 Plus / 8 Plus Şok Darbe Emici Şeffaf Silikon Kılıf,Teknoçeri,(2281),"29,90 TL"
+98,Female,27,60,50,Murcia,37.9866,-1.1415,ES,406807,False,Apple Watch 7 8 45mm Kılıf Kasa Ve Ekran Koruyucu 360 Tam Koruma Kapak,Fibaks,(180),"59,99 TL"
+99,Male,48,61,42,Las Palmas,28.1272,-15.4314,ES,379925,False,Iphone 11 Manzara Desenli Kamera Korumalı Kılıf,Go Aksesuar,(161),"70,61 TL"
+100,Male,20,61,49,A Coruna,43.3713,-8.4188,ES,370610,False,Mini Ev Dikiş Makinesi Pedallı Sewıng Machine,BST BRANDSHOPPİNGTR,(736),299 TL
+101,Female,23,62,41,Donostia,43.3204,-1.98,ES,357468,False,Fc 9919 Marathon Ultimate Triactive Plus Emici Başlık,Philips,(364),124 TL
+102,Female,49,62,48,Bilbao,43.2622,-2.9533,ES,346843,False,Hbs 1010 700 Watt 3’ü 1 Arada El Blender Seti,Grundig,(1252),415 TL
+103,Male,67,62,59,Alicante,38.3453,-0.4831,ES,334887,False,Profesyonel T-bıçak Saç Sakal Ense Ve Çizim Tıraş Makinesi Th-8005,SMARTBLUE,(83),"238,90 TL"
+104,Male,26,62,55,Cordoba,37.8833,-4.7667,ES,325701,False,S5 - S6 Max S50 - S55 Uyumlu Hepa Filtre,Roborock,(260),79 TL
+105,Male,49,62,56,Valladolid,41.652,-4.7286,ES,298412,False,Xiaomi Mi Band 3 Ve 4 Uyumlu Silikon Yüksek Kalite Kordon Kayış,CONOCER,(533),"18,99 TL"
+106,Female,21,62,42,Vigo,42.2358,-8.7267,ES,295364,False,Apple Watch Uyumlu 38 40 mm Örgülü Esnek Kordon,TT Option,(398),69 TL
+107,Female,66,63,50,Gijon,43.5293,-5.6773,ES,271780,False,Ko-40 Tahdf 60 Cm Siyah Cam Ankastre Ocak,KUMTEL,(203),1.199 TL
+108,Male,54,63,46,Vitoria-Gasteiz,42.8467,-2.6731,ES,251774,False,Iphone 13 Pro Max Arka Kırılmaz Cam Ekran Koruyucu,Powerfox,(114),"15,99 TL"
+109,Male,68,63,43,Granada,37.1781,-3.6008,ES,232462,False,Otomatik Saç Maşası - Kalın Su Dalgası 25mm Extra Uzun Başlıklı,Shibowavy,(855),"395,01 TL"
+110,Male,66,63,48,Badalona,41.4333,2.2333,ES,220440,False,Xiaomi Mi Band 5 Ve 6 Uyumlu Kordon Seti 3lü,PUFWİN,(660),"41,78 TL"
+111,Male,65,63,52,Sabadell,41.5483,2.1075,ES,213644,False,"15.6"" Inç Siyah Evrak Bilgisayar Notebook Laptop Çantası",Moda West,(528),"96,71 TL"
+112,Female,19,63,54,Cartagena,37.6,-0.9819,ES,214802,False,Matepad T10s 10.1 Inç Kılıf Uyumlu Dönebilen Kılıf Ekran Koruyucu Dokunmatik Kalem,Huawei,(71),129 TL
+113,Female,38,64,42,Jerez De La Frontera,36.7,-6.1167,ES,212749,False,Samsung Galaxy Tab S6 Lite P610 Uyumlu Kalem Bölmeli Pu Deri Arkası Yumuşak Koruyucu Silikon Kılıf,Fibaks,(118),"189,90 TL"
+114,Male,19,64,46,Pamplona,42.8167,-1.65,ES,201653,False,"Ipad 9. Nesil 10.2"" Uyumlu Kılıf Kalem Bölmeli Tri Folding Smart Standlı Yumuşak Silikon Tam Koruma",Fibaks,(30),"189,90 TL"
+115,Female,18,65,48,Santa Cruz,28.4667,-16.25,ES,207312,False,"S400 128gb 550mb 500mbs Sata3 2,5 Gaming Ssd",IZOLY,(110),228 TL
+116,Female,19,65,50,Almeria,36.8333,-2.45,ES,198533,False,Gece Görüşlü 360 Derece Led Işık 1080p Wifi Kamera Kablosuz Panoramik Ev Güvenlik Kamersı,BiNtech,(22),445 TL
+117,Female,63,65,43,Oviedo,43.3634,-5.8423,ES,189434,False,Collector Hepa Filtreli Şarjlı El Süpürgesi,Fakir,(786),"679,35 TL"
+118,Female,49,65,59,Mataro,41.54,2.45,ES,183293,False,Krem Macbook Air Pro 13 13.3-14 Inç Darbeye Karşı Korumalı Laptop Çantası,D'VERS,(643),"140,71 TL"
+119,Female,51,67,43,Santander,43.4667,-3.8,ES,172539,False,Uyumlu Xiaomi Mi Band 4 Usb Şarj Cihazı Dock Kablosu Yüksek Kalite Kordon Kayış,NARİTA,(341),"28,60 TL"
+120,Female,50,67,57,Albacete,38.9956,-1.8558,ES,173329,False,Mini Pro Led Ekran 10.000 Mah 2 Çıkışlı Taşınabilir Şarj Cihazı Powerbank siyah,İntouch,(178),"180,51 TL"
+121,Male,27,67,56,Tokyo,35.6897,139.692,JP,37977000,True,"Ipad 9. Uyumlu Nesil 10.2"" Kılıf Kalem Bölmeli Tri Folding Smart Standlı Yumuşak Silikon Tam Koruma",Fibaks,(37),"189,90 TL"
+122,Female,38,67,40,Osaka,34.6936,135.502,JP,14977000,False,Iphone 11 Uyumlu Kılıf Köşeleri Renkli Şeffaf Kamera Korumalı Silikon Kuxury Kapak,Ceponya,(14),85 TL
+123,Female,40,69,58,Nagoya,35.1167,136.933,JP,9113000,False,Kablolu Klavye &amp; Mouse Seti,Deiog Marka,(2004),"132,13 TL"
+124,Male,39,69,91,Yokohama,35.4333,139.633,JP,3748781,False,Scart Uydu Elektromaster Kgs 2100,Electro Master,(83),134 TL
+125,Female,23,70,29,Fukuoka,33.5903,130.402,JP,2128000,False,Instax Mini 7 8 9 10 11 Uyumlu (10) Poz,Fujifilm,(567),169 TL
+126,Female,31,70,77,Sapporo,43.0621,141.354,JP,1958756,False,Iphone 11 Minik Kalpler Beyaz Desenli Şeffaf Telefon Kılıfı,butikcase,(47),"28,91 TL"
+127,Male,43,71,35,Kyoto,35.0111,135.767,JP,1805000,False,"Matepad T10 4gb Bellek 64gb Hafıza 9.7"" Tablet Deniz Mavisi",Huawei,(38),2.199 TL
+128,Male,40,71,95,Kobe,34.6913,135.183,JP,1522944,False,OneBlade Şekillendirici Tıraş Makinesi (Yüz&amp;Vücut) -,Philips,(261),899 TL
+129,Male,59,71,11,Kawanakajima,35.53,139.705,JP,1437266,False,Iphone Usb-c To Lightning Hızlı Şarj Ve Data Kablosu,whodes,(15),29 TL
+130,Male,38,71,75,Saitama,35.8617,139.645,JP,1307931,False,Hp8361/00 Procare Keratin Saç Düzleştirici,Philips,(2534),2.389 TL
+131,Male,47,71,9,Hiroshima,34.3853,132.455,JP,1306589,False,Iphone 11 Logolu Vişne (KÖŞELİ 12 GÖRÜNÜMLÜ)lansman Içi Kadife Aa Kalite,Go Aksesuar,(389),"42,34 TL"
+132,Male,39,71,75,Sendai,38.2683,140.869,JP,1058070,False,Bluetooth Kablosuz Kulaklık Temizleme Kalemi Aparatı Temizleme Kiti,LEV AKSESUAR,(169),"56,72 TL"
+133,Female,25,72,34,Kitaku,33.8704,130.82,JP,997536,False,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,(109),"59,90 TL"
+134,Female,31,72,71,Chiba,35.6,140.1,JP,980203,False,Dokunmatik Tablet Akıllı Tahta Telefon Kalemi - Üniversal Silikon Uçlu Tablet Telefon Kalemi,MİRAKSESUAR,(11),"9,90 TL"
+135,Male,20,73,5,Niigata,37.9161,139.036,JP,796500,False,Şeffaf Iphone 12/12 Pro Magsafe Özellikli Kılıf,ALBTEKS,(244),"53,53 TL"
+136,Female,29,73,88,Hamamatsu,34.7167,137.733,JP,791770,False,S5 Max 2li Mop Fiber Yedek Bezi,Roborock,(194),"138,60 TL"
+137,Female,44,73,7,Kumamoto,32.8031,130.708,JP,739393,False,Iphone 11 Uyumlu Kiraz Desenli Kılıf,Go Aksesuar,(162),"52,11 TL"
+138,Male,32,73,73,Sagamihara,35.5667,139.367,JP,722828,False,Iphone 13 Pro Ve 13 Pro Max Uyumlu Kamera Koruyucu Lens,Fibaks,(50),"29,99 TL"
+139,Male,19,74,10,Okayama,34.65,133.917,JP,720865,False,Rowenta Ro 3751 Ta Compact Power Cyclonic Hepa Filtre Seti,Bosch,(21),60 TL
+140,Female,35,74,72,Shizuoka,34.9756,138.383,JP,691185,False,Ar1108 Smarty Neo 900 w Blender Seti,Arzum,(2680),"489,90 TL"
+141,Female,57,75,5,Honcho,35.6947,139.982,JP,639107,False,"Tab M10 2.3ghz 4 64 10.1"" 1280x800 Ips Za6w0121tr Gri Tablet (Lenovo Türkiye Garantili)",LENOVO,(162),2.671 TL
+142,Male,32,75,93,Kawaguchi,35.8078,139.724,JP,592373,False,Elektrikli Setüstü Hotplate Ocak (lx-7021),KUMTEL,(731),549 TL
+143,Female,28,76,40,Kagoshima,31.58,130.528,JP,595319,False,Iphone 11 Manzara Desenli Kamera Korumalı Kılıf,Go Aksesuar,(192),"70,75 TL"
+144,Female,32,76,87,Hachioji,35.6667,139.317,JP,577560,False,"Iphone 11 Uyumlu 6.1"" Kenarları Renkli Kamera Korumalı Transparan Kılıf",Teknoçeri,(1608),"29,90 TL"
+145,Male,25,77,12,Utsunomiya,36.55,139.883,JP,519255,False,"120 Gb Ssd Bg-1071, Sata-3, 2.5""/7mm, 540mb/sn'e Kadar",Bugatek,(407),"243,46 TL"
+146,Male,28,77,97,Matsuyama,33.8333,132.767,JP,509139,False,Macbook Air Ve Ultrabook 13 -13.3 &amp; 14 Inc Uyumlu Su Geçirmez Özellikli Kılıf,D'VERS,(327),"92,31 TL"
+147,Male,48,77,36,Ichikawa,35.7219,139.931,JP,495592,False,"Füme Su Geçirmez Fermuar Detaylı Unisex 15-15,6 Inç Uyumlu Macbook Kılıf Notebook Laptop Çantası",D'VERS,(200),"92,31 TL"
+148,Female,32,77,74,Higashi-Osaka,34.6794,135.601,JP,494640,False,Akıllı Robot Süpürge Filtre Seti - Mijia1c - Stytj01zhm Uyumlu,Xiaomi,(761),"199,75 TL"
+149,Female,34,78,22,Matsudo,35.7878,139.903,JP,492671,False,Samsung Galaxy Tab S6 Lite P610 Uyumlu Kalem Bölmeli Pu Deri Arkası Yumuşak Koruyucu Silikon Kılıf,Fibaks,(65),"189,90 TL"
+150,Male,34,78,90,Nishinomiya-Hama,34.7333,135.333,JP,487413,False,"Via S48 8"" 32gb Ips Tablet",Casper,(444),1.549 TL
+151,Male,43,78,17,London,51.5072,-0.1275,GB,10979000,True,"LS22F350FHRXUF 21.5"" 60Hz 5ms (Analog+HDMI) Full HD LED Monitör",Samsung,(33),1.898 TL
+152,Male,39,78,88,Birmingham,52.48,-1.9025,GB,2897303,False,"15.6"" Inç Su Geçirmez Kumaş Özellikli Evrak Bilgisayar Notebook Laptop Çantası",Moda West,(784),"101,11 TL"
+153,Female,44,78,20,Manchester,53.4794,-2.2453,GB,2705000,False,"Unisex 15,6'' Business Serisi 4 Bölmeli Laptop Evrak Çantası",D'VERS,(716),"149,51 TL"
+154,Female,38,78,76,Leeds,53.7997,-1.5492,GB,1901934,False,Xiaomi Mi Band 3 / Mi Band 4 Uyumlu Silikon Kordon Seti (özel Saklama Kutusunda 7 Adet),HOFFICE,(63),"78,20 TL"
+155,Female,47,78,16,Newcastle,55.0077,-1.6578,GB,1650000,False,"Siyah Su Geçirmez Fermuar Detaylı 15,6inch Darbeye Karşı Korumalı Kılıf Notebook Laptop Çantası",D'VERS,(356),"136,31 TL"
+156,Female,27,78,89,Birstall,52.6736,-1.12,GB,1424216,False,Iphone 13 Pro Max &amp; 13 Pro Uyumlu Alüminyum Alaşım 3d Kamera Lens Koruyucu Sierra Mavisi [3'lü Set],HyperAge,(297),"56,76 TL"
+157,Male,37,78,1,Glasgow,55.8609,-4.2514,GB,985290,False,Xiaomi Mi Band 5 Ve 6 Uyumlu Silikon Kordon 7'li Set,APEXEL,(385),"86,46 TL"
+158,Female,30,78,78,Liverpool,53.4,-2.9833,GB,864122,False,Iphone 11 Dünya Harita Desenli Premium Şeffaf Silikonlu Kılıf,mooodcase,(801),"35,76 TL"
+159,Male,34,78,1,Southampton,50.9,-1.4,GB,855569,False,Iphone 11 Kılıf Darbelere Dayanıklı Sert Silikon Şeffaf,Telefon Aksesuarları,(305),"20,16 TL"
+160,Female,30,78,73,Portsmouth,50.8058,-1.0872,GB,855679,False,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,(76),"59,90 TL"
+161,Female,56,79,35,Nottingham,52.95,-1.15,GB,768638,False,Yüz Temizleyici Epilasyon Aleti,Flawless,(780),"58,90 TL"
+162,Female,29,79,83,Bristol,51.45,-2.5833,GB,724000,False,"5000 Series Saç Düzleştirici ;Argan Yağı Katkılı Plakalar, Thermo Shield Teknoloji",Philips,(255),1.138 TL
+163,Male,19,81,5,Sheffield,53.3833,-1.4667,GB,685368,False,UB400 Bluetooth 4.0 Mini USB Adaptör,Tp-Link,(891),"128,99 TL"
+164,Female,31,81,93,Kingston Upon Hull,53.7444,-0.3325,GB,573300,False,Elektronik Sihirli Akıllı Mouse Kumanda Yerine Tüm Model Smart 3d Tv Televizyon Tuşlu Kumanda,LG,(106),"29,89 TL"
+165,Male,50,85,26,Leicester,52.6333,-1.1333,GB,508916,False,Kroko Siyah Unisex 13 - 13.3 - 14 Inç Uyumlu Macbook Kılıf Notebook Laptop Çantası,D'VERS,(348),"127,51 TL"
+166,Female,36,85,75,Edinburgh,55.953,-3.189,GB,488050,False,Apple Iphone 11 Tam Uyumlu Kılıf Parlak Kamera Lens Koruyuculu Luxury Design,Zore,(6),"64,80 TL"
+167,Male,42,86,20,Caerdydd,51.4833,-3.1833,GB,479000,False,Gm 22 Pro Şeffaf Silikon Kılıf Orijinal Tam Uyumlu Baristrend (G702),General Mobile,(97),"29,20 TL"
+168,Female,33,86,95,Stoke-On-Trent,53.0,-2.1833,GB,372775,False,Tostçu Neo Granite 1800 W Granit Tost Makinesi Ar2035,Arzum,(359),"807,40 TL"
+169,Female,36,87,27,Coventry,52.4081,-1.5106,GB,362690,False,X515ma-br468 Intel N4020 4gb Ram 256gb Ssd 15.6'' Hd Freedos,ASUS,(5),5.099 TL
+170,Male,32,87,63,Reading,51.4542,-0.9731,GB,337108,False,Crystal Eraser Epilasyon Aleti Tüy Silgisi Kristal Epilatör Siyah,THE LADY BEAUTY SHOP,(98),"98,99 TL"
+171,Male,40,87,13,Belfast,54.5964,-5.93,GB,333871,False,Iphone 14 Pro Uyumlu Kılıf Magsafe Wireless Kablosuz Şarj Destekli Sararmaz Şeffaf Darbe Emici Kapak,Fibaks,(12),"134,99 TL"
+172,Male,28,87,75,Derby,52.9167,-1.4667,GB,270500,False,Profesyonel Elektrikli Saç Düzleştirici Tarak Fast Hair Straightenerr Extra Kalite,SİRANUS,(2),219 TL
+173,Male,36,87,10,Plymouth,50.3714,-4.1422,GB,267918,False,Ipad Air 5 Ve Air 4.nesil 10.9 Ekran Koruyucu Nano Esnek Cam Hdrt,HopyKent,(66),"121,54 TL"
+174,Male,36,87,92,Wolverhampton,52.5833,-2.1333,GB,254406,False,Samsung Galaxy Fit 2 Kordon Spor Silikon Siyah,Regetto,(28),"79,90 TL"
+175,Female,52,88,13,Abertawe,51.6167,-3.95,GB,245500,False,Iphone 13 Pro Ve 13 Pro Max Uyumlu Kamera Koruyucu Lens,Fibaks,(43),"29,99 TL"
+176,Female,30,88,86,Milton Keynes,52.04,-0.76,GB,229941,False,Iphone 13 Uyumlu Lacivert Lansman Içi Kadife Silikon Logolu Kılıf,TrendCell,(157),"29,99 TL"
+177,Male,58,88,15,Islington,51.544,-0.1027,GB,206125,False,Trendfit Dijital Lcd Ekran Temperli Cam 180 Kg Kapasiteli Banyo Baskül Tartı,GoldMaster,(1383),"159,90 TL"
+178,Male,27,88,69,Aberdeen,57.15,-2.11,GB,214610,False,Iphone 14 Pro Kılıf Kamera Çıkıntılı Sararmaz Şeffaf Sert Metal Buton Pürüzsüz Kapak Uyumlu,Fibaks,(3),"108,90 TL"
+179,Male,59,93,14,Luton,51.8783,-0.4147,GB,213052,False,Gece Görüşlü Kablosuz Bebek Izleme Kamerası Wifi Ip Kamera,Tiffany,(51),"396,80 TL"
+180,Male,35,93,90,Norwich,52.63,1.297,GB,213166,False,Iphone 7 / 8 / Se 2020 Şok Darbe Emici Şeffaf Silikon Kılıf,Teknoçeri,(1807),"29,90 TL"
+181,Female,37,97,32,Moscow,55.7558,37.6178,RU,17125000,True,Apple Iphone 7plus 8plus Uyumlu Temperli Şeffaf Kenarlı Ekran Koruyucu Kırılmaz Telefon Camı 2 Adet,Tria,(387),"29,90 TL"
+182,Female,32,97,86,Saint Petersburg,59.95,30.3167,RU,5351935,False,Rz01-03850100-r3m1 Deathadder Essential Optik Kablolu Siyah Oyuncu Mouse,RAZER,(23),"270,70 TL"
+183,Male,46,98,15,Novosibirsk,55.0333,82.9167,RU,1602915,False,Kablosuz Lazer Sunum Kumandası Tp01,TRILOGIC,(2),"139,41 TL"
+184,Female,29,98,88,Yekaterinburg,56.8356,60.6128,RU,1468833,False,Iphone 14 Pro Kılıf Yumuşak Şeffaf Ince Esnek Renksiz Silikon Kapak,Fibaks,(5),"29,99 TL"
+185,Female,41,99,39,Nizhniy Novgorod,56.3269,44.0075,RU,1264075,False,Iphone 14 Pro Max Uyumlu Kılıf Kamera Çıkıntılı Koruma Sararmaz Şeffaf A Kalite Arka Kapak,m.tk moveteck,(6),"89,90 TL"
+186,Male,30,99,97,Kazan,55.7908,49.1144,RU,1243500,False,P13 Blue Plus 2022 Silikon Telefon Kılıfı,Reeder,(20),"23,90 TL"
+187,Female,54,101,24,Chelyabinsk,55.15,61.4,RU,1202371,False,T500 Akıllı Saat Türkçe Menülü Nabız&amp;tansiyon Ölçer Arama Özellikli Ios&amp;anroid Çift Tuş Smartwatch,TECHNOMEN,(109),"209,90 TL"
+188,Male,28,101,68,Omsk,54.9667,73.3833,RU,1178391,False,Xiaomi Mi Watch Lite Kordon Akıllı Saat Bileklik Kordonu Silikon Kayış,Fibaks,(114),"59,90 TL"
+189,Female,41,103,17,Samara,53.1833,50.1167,RU,1169719,False,Rebera Xiaomi Mi Box S 4k Tv Stick Netflix Prime Video Tuşlu Kumanda,KR,(96),"148,80 TL"
+190,Female,36,103,85,Rostov,47.2333,39.7167,RU,1125299,False,Burun Ve Kulak Kılı Kesme Makinesi Str-4919,Sinbo,(788),"106,92 TL"
+191,Female,34,103,23,Ufa,54.7333,55.9667,RU,1115560,False,K120 USB Kablolu Türkçe Q Klavye - Siyah,logitech,(285),180 TL
+192,Female,32,103,69,Krasnoyarsk,56.0167,92.8667,RU,1083865,False,Samsung Galaxy Tab S6 Lite P610 Uyumlu Origami Kalem Bölmeli Pu Deri Arkası Yumuşak Silikon Kılıf,Nezih Case,(102),"189,11 TL"
+193,Male,33,113,8,Voronezh,51.6717,39.2106,RU,1047549,False,Xiaomi Mi Band 4 Akıllı Bileklik,ALİBU,(23),"149,99 TL"
+194,Female,38,113,91,Perm,58.0139,56.2489,RU,1048005,False,Soonbox S4406 Disko Ledli Mikrofonlu Işıklı Bluetooth Hoparlör Kablosuz Taşınabilir Speaker,OWWOTECH,(7),340 TL
+195,Female,47,120,16,Volgograd,48.7,44.4833,RU,1015586,False,"Watch SE GPS, 44mm Gold Aluminium Case with Starlight Sport Band - Regular",Apple,(162),6.149 TL
+196,Female,35,120,79,Krasnodar,45.0333,38.9833,RU,881476,False,Profesyonel Seramik Wag Şu Dalgası Saç Maşası 220 Derece 25 Mm Kalın Bukle,WENTER,(231),290 TL
+197,Female,45,126,28,Saratov,51.5333,46.0,RU,845300,False,"Aspire C24-1650 Intel Core I5 1135g7 8gb 512gb Ssd Freedos 23.8"" Fhd Aıo Dq.bfsem.006",ACER,(6),12.838 TL
+198,Male,32,126,74,Tyumen,57.15,65.5333,RU,744554,False,"Kulak Içi Mikrofonlu Mobil Pubg Kulaklığı 3,5 Mm Aux Standart Giriş",Xrades,(405),"139,41 TL"
+199,Male,32,137,18,Tolyatti,53.5167,49.4167,RU,707408,False,Iphone 13 Pro Max Uyumlu Kılıf Magsafe Köşeleri Renkli Şeffaf Kamera Korumalı Silikon Kapak,Ceponya,(7),113 TL
+200,Male,30,137,83,Izhevsk,56.85,53.2167,RU,646277,False,"Unisex West Serisi 15.6"" Inç Füme Evrak Bilgisayar Notebook Laptop Çantası",Moda West,(86),"114,31 TL"
