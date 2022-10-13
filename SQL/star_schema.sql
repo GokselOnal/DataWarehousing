@@ -54,95 +54,73 @@ ORDER BY 1;
 
 
 -- Dimension Customer
-SELECT DISTINCT CUSTOMER_ID 
-INTO customers
-FROM data;
-
-CREATE TABLE IF NOT EXISTS dim_customer AS
-SELECT d.CUSTOMER_ID, 
-       d.GENRE, 
-       d.AGE, 
-       d.ANNUAL_INCOME, 
-       d.SPENDING_SCORE
-FROM data AS d
-LEFT JOIN customers AS c
-ON d.CUSTOMER_ID = c.CUSTOMER_ID;
+SELECT DISTINCT(CUSTOMER_ID), GENRE, AGE, ANNUAL_INCOME, SPENDING_SCORE
+INTO dim_customer
+FROM public.data;
 
 ALTER TABLE dim_customer
 ADD PRIMARY KEY (CUSTOMER_ID);
-
-DROP TABLE customers;
 -- Dimension Customer
 
 
 
 -- Dimension City
-SELECT DISTINCT CITY_NAME 
-INTO cities
-FROM data;
+SELECT DISTINCT(CITY_NAME), CITY_LATITUDE, CITY_LONGITUDE, COUNTRY_CODE, COUNTRY_NAME, IS_CAPITAL
+INTO dim_city_temp
+FROM public.data;
 
-CREATE TABLE IF NOT EXISTS dim_city AS
-SELECT row_number() over (order by d.CITY_NAME) AS CITY_ID, 
-    d.CITY_NAME, 
-    d.CITY_LATITUDE, 
-    d.CITY_LONGITUDE, 
-    d.COUNTRY_CODE, 
-    d.COUNTRY_NAME, 
-    d.IS_CAPITAL
-FROM data AS d
-LEFT JOIN cities AS c
-ON d.CITY_NAME = c.CITY_NAME;
+SELECT row_number() over (order by CITY_NAME) as CITY_ID, *
+into dim_city
+from dim_city_temp;
 
 ALTER TABLE dim_city
 ADD PRIMARY KEY (CITY_ID);
 
-DROP TABLE cities;
+DROP TABLE dim_product_temp;
 -- Dimension City
 
 
 
 -- Dimension Product
-SELECT DISTINCT PRODUCT_NAME 
-INTO products
-FROM data;
+SELECT DISTINCT(PRODUCT_NAME), PRODUCT_BRAND, PRODUCT_RATING, PRODUCT_PRICE
+INTO dim_product_temp
+FROM public.data;
 
-CREATE TABLE IF NOT EXISTS dim_product AS
-SELECT row_number() over (order by d.PRODUCT_NAME) AS PRODUCT_ID, 
-    d.PRODUCT_NAME, 
-    d.PRODUCT_BRAND, 
-    d.PRODUCT_RATING
-FROM data AS d
-LEFT JOIN products AS p
-ON d.PRODUCT_NAME = p.PRODUCT_NAME;
+SELECT row_number() over (order by PRODUCT_NAME) as PRODUCT_ID, *
+into dim_product
+from dim_product_temp;
 
 ALTER TABLE dim_product
 ADD PRIMARY KEY (PRODUCT_ID);
 
-DROP TABLE products;
+DROP TABLE dim_product_temp;
 -- Dimension Product
 
 
 
 -- Fact Table
 CREATE TABLE IF NOT EXISTS fact_sales_temp AS
-SELECT dim_d.DATE_KEY, 
-       dim_c.CUSTOMER_ID, 
-       dim_ci.CITY_ID, 
-       dim_p.PRODUCT_ID, 
+SELECT dim_d.DATE_KEY,
+       dim_c.CUSTOMER_ID,
+       dim_ci.CITY_ID,
+       dim_p.PRODUCT_ID,
        d.PRODUCT_PRICE AS PRICE
 FROM data AS d
 LEFT JOIN dim_date AS dim_d ON d.DATE = dim_d.DATE
 LEFT JOIN dim_customer AS dim_c ON d.CUSTOMER_ID = dim_c.CUSTOMER_ID
 LEFT JOIN dim_city AS dim_ci ON d.CITY_NAME = dim_ci.CITY_NAME
-LEFT JOIN dim_product AS dim_p ON d.PRODUCT_NAME = dim_p.PRODUCT_NAME;
+AND d.CITY_LATITUDE = dim_ci.CITY_LATITUDE AND d.CITY_LONGITUDE = dim_ci.CITY_LONGITUDE
+AND d.COUNTRY_CODE = dim_ci.COUNTRY_CODE
+LEFT JOIN dim_product AS dim_p ON d.PRODUCT_NAME = dim_p.PRODUCT_NAME
+AND d.PRODUCT_BRAND = dim_p.PRODUCT_BRAND AND d.PRODUCT_RATING = dim_p.PRODUCT_RATING
+AND d.PRODUCT_PRICE = dim_p.PRODUCT_PRICE;
 
-SELECT row_number() over (order by DATE_KEY) as SALES_ID, * 
+SELECT row_number() over (order by DATE_KEY) as SALES_ID, *
 into fact_sales
 from fact_sales_temp;
 
 DROP TABLE fact_sales_temp
 -- Fact Table
-
 
 
 
