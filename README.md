@@ -12,5 +12,5 @@
   - 
   - DigitalOcean
   - Python
-  - PostgresSQL
+  - PostgreSQL
   - Shell
