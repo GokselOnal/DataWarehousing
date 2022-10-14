@@ -10,6 +10,7 @@
   - Data Warehousing
   - Dimensional Modelling
   - 
+  - DigitalOcean
   - Python
   - PostgresSQL
   - Shell
